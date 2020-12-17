@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2020/12/17/i-am-just.html",
+				
+				"content_html": "<p>I am just one book away to complete my 2020 reading challenge. Goodreads tells me <em>there are still 14 days left</em>! It believes <em>I can do it!</em> I know many can. I don&rsquo;t know if <em>I</em> can <em>in 2020</em>. Such has been this year.</p>\n",
+				"content_text": "I am just one book away to complete my 2020 reading challenge. Goodreads tells me *there are still 14 days left*! It believes *I can do it!* I know many can. I don't know if *I* can *in 2020*. Such has been this year.\n",
+				"date_published": "2020-12-17T19:00:33+05:30",
+				"url": "https://www.amitgawande.com/2020/12/17/i-am-just.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2020/12/08/i-wish-microblog.html",
+				
+				"content_html": "<p>I wish Micro.blog had an option to delivery email digest of the posts - I like the way Dave Winer has setup his daily &ldquo;newsletter&rdquo;. It&rsquo;s a good way to follow one&rsquo;s thoughts. Even if no one else, <em>I myself</em> would like to receive a digest on a schedule - daily, weekly whatever.</p>\n",
+				"content_text": "I wish Micro.blog had an option to delivery email digest of the posts - I like the way Dave Winer has setup his daily \"newsletter\". It's a good way to follow one's thoughts. Even if no one else, *I myself* would like to receive a digest on a schedule - daily, weekly whatever.\n",
+				"date_published": "2020-12-08T19:21:46+05:30",
+				"url": "https://www.amitgawande.com/2020/12/08/i-wish-microblog.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://tales.micro.blog/2020/12/08/achieving-simplicity-is.html",
 				
 				"content_html": "<p>Achieving simplicity is the most complex activity.</p>\n",
