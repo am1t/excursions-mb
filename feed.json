@@ -7,11 +7,29 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2021/02/08/this-comment-from.html",
+				
+				"content_html": "<p>This <a href=\"http://scripting.com/2021/02/06.html#a165834\">comment from Dave Winer</a> made me pause.</p>\n\n<blockquote>\n<p>[Y]ou don&rsquo;t make money from a blog or podcast, but you can make money because of a blog or podcast.</p>\n</blockquote>\n",
+				"content_text": "This [comment from Dave Winer](http://scripting.com/2021/02/06.html#a165834) made me pause.\n\n> [Y]ou don't make money from a blog or podcast, but you can make money because of a blog or podcast.\n",
+				"date_published": "2021-02-08T10:15:55+05:30",
+				"url": "https://www.amitgawande.com/2021/02/08/this-comment-from.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/02/08/why-we-fight.html",
+				
+				"content_html": "<p><a href=\"https://www.overcomingbias.com/2020/11/why-we-fight-over-fiction.html\">Why We Fight Over Fiction</a> →</p>\n\n<blockquote>\n<p>Our moral evaluations of the main big actions that influence our world today, and that built our world from past worlds, are still up for grabs.</p>\n</blockquote>\n",
+				"content_text": "[Why We Fight Over Fiction](https://www.overcomingbias.com/2020/11/why-we-fight-over-fiction.html) →\n\n> Our moral evaluations of the main big actions that influence our world today, and that built our world from past worlds, are still up for grabs.\n",
+				"date_published": "2021-02-08T07:48:09+05:30",
+				"url": "https://www.amitgawande.com/2021/02/08/why-we-fight.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://tales.micro.blog/2021/02/01/why-is-it.html",
 				
-				"content_html": "<p>Why is it that every time a take a break from writing, for whatever reason, I find it extremely difficult to get back? I feel the longer am away, the better the next post has to be; it has to explain why I was away. May be I am not comfortable? That&rsquo;s stupid, but I can&rsquo;t help.</p>\n",
-				"content_text": "Why is it that every time a take a break from writing, for whatever reason, I find it extremely difficult to get back? I feel the longer am away, the better the next post has to be; it has to explain why I was away. May be I am not comfortable? That's stupid, but I can't help.\n",
-				"date_published": "2021-02-01T08:40:39+05:30",
+				"content_html": "<p>Why is it that every time I take a break from writing, for whatever reason, I find it extremely difficult to get back? I feel the longer am away, the better the next post has to be; it has to explain why I was away. May be I am not comfortable? That&rsquo;s stupid, but I can&rsquo;t help.</p>\n",
+				"content_text": "Why is it that every time I take a break from writing, for whatever reason, I find it extremely difficult to get back? I feel the longer am away, the better the next post has to be; it has to explain why I was away. May be I am not comfortable? That's stupid, but I can't help.\n",
+				"date_published": "2021-02-01T08:40:00+05:30",
 				"url": "https://www.amitgawande.com/2021/02/01/why-is-it.html",
 				"tags": ["Thoughts"]
 			},
