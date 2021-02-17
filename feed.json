@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2021/02/17/i-know-password.html",
+				
+				"content_html": "<p>I know password manager's an important service and one shouldn't hesitate to pay for it. But LastPass's free tier was a good enough option for me; there was no feature that I needed to pay the subscription price for. That changed with today's modifications to that free tier.</p>\n<p>\n  That update also made me reevaluate my options. And I realized 1Password is a better option <i>for me</i> -- both in terms of the features and the cost it charges (especially in Indian market).\n  <br />\n</p>\n<p>\n  So I've ditched LastPass the moment they asked me to pay. Is that cheating?\n  <br />\n</p>\n",
+				"content_text": "<p>I know password manager's an important service and one shouldn't hesitate to pay for it. But LastPass's free tier was a good enough option for me; there was no feature that I needed to pay the subscription price for. That changed with today's modifications to that free tier.</p>\n<p>\n  That update also made me reevaluate my options. And I realized 1Password is a better option <i>for me</i> -- both in terms of the features and the cost it charges (especially in Indian market).\n  <br />\n</p>\n<p>\n  So I've ditched LastPass the moment they asked me to pay. Is that cheating?\n  <br />\n</p>\n",
+				"date_published": "2021-02-17T19:23:34+05:30",
+				"url": "https://www.amitgawande.com/2021/02/17/i-know-password.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/02/11/is-todays-doomscrolling.html",
+				
+				"content_html": "<p>Is today&rsquo;s doomscrolling a severe variant of 2007&rsquo;s <a href=\"https://www.theguardian.com/technology/2007/apr/10/news.newmedia\">wwilfing</a>? I&rsquo;d, for sure, suffered from the later during my early blogging days. We humans have since long mastered two things &ndash; finding the most boring ways to kill our productivity &amp; naming them in the most creative manner.</p>\n",
+				"content_text": "Is today's doomscrolling a severe variant of 2007's [wwilfing](https://www.theguardian.com/technology/2007/apr/10/news.newmedia)? I'd, for sure, suffered from the later during my early blogging days. We humans have since long mastered two things -- finding the most boring ways to kill our productivity & naming them in the most creative manner.\n",
+				"date_published": "2021-02-11T22:29:13+05:30",
+				"url": "https://www.amitgawande.com/2021/02/11/is-todays-doomscrolling.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/02/11/i-read-a.html",
+				
+				"content_html": "<p>I read a headline &ldquo;The science of reasoning with unreasonable people&rdquo;. Why would I do that?</p>\n",
+				"content_text": "I read a headline \"The science of reasoning with unreasonable people\". Why would I do that?\n",
+				"date_published": "2021-02-11T18:56:46+05:30",
+				"url": "https://www.amitgawande.com/2021/02/11/i-read-a.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/02/11/i-finished-finally.html",
+				
+				"content_html": "<p>I finished (finally!) reading <a href=\"https://www.goodreads.com/book/show/140278.4\">4:50 from Paddington</a> today. I was about to rate this book a lot lower than what I eventually did. The meandering second half - a difficult feat in an already short book - made me forget how brilliant the first half of the book was.</p>\n\n<p>I felt this was a short story that Christie wrote first and then rewrote it for a book. Wish she hadn&rsquo;t.</p>\n",
+				"content_text": "I finished (finally!) reading [4:50 from Paddington](https://www.goodreads.com/book/show/140278.4) today. I was about to rate this book a lot lower than what I eventually did. The meandering second half - a difficult feat in an already short book - made me forget how brilliant the first half of the book was. \n\nI felt this was a short story that Christie wrote first and then rewrote it for a book. Wish she hadn't.\n",
+				"date_published": "2021-02-11T08:55:36+05:30",
+				"url": "https://www.amitgawande.com/2021/02/11/i-finished-finally.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/02/09/stop-defacing-quotes.html",
+				
+				"content_html": "<p><a href=\"https://slate.com/human-interest/2021/02/stop-defacing-quotes-with-brackets.html\">Stop Defacing Quotes With Brackets!</a> →</p>\n\n<blockquote>\n<p>If the changes are not obvious, don’t use the quote; if they’re not necessary, don’t use the brackets. The goal is to present the quotation as directly as possible.</p>\n</blockquote>\n",
+				"content_text": "[Stop Defacing Quotes With Brackets!](https://slate.com/human-interest/2021/02/stop-defacing-quotes-with-brackets.html) →\r\n\r\n> If the changes are not obvious, don’t use the quote; if they’re not necessary, don’t use the brackets. The goal is to present the quotation as directly as possible.\n",
+				"date_published": "2021-02-09T14:12:41+05:30",
+				"url": "https://www.amitgawande.com/2021/02/09/stop-defacing-quotes.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/02/09/has-anyone-used.html",
+				
+				"content_html": "<p>Has anyone used <a href=\"https://www.beeperhq.com/\">Beeper</a> - &ldquo;a single app to chat on iMessage, WhatsApp, and 13 other networks&rdquo;? And it is built on an open source project, <a href=\"https://matrix.org/\">Matrix</a>?</p>\n\n<p>It sounds too good to be true. What&rsquo;s the catch - there must be one?</p>\n",
+				"content_text": "Has anyone used [Beeper](https://www.beeperhq.com/) - \"a single app to chat on iMessage, WhatsApp, and 13 other networks\"? And it is built on an open source project, [Matrix](https://matrix.org/)?\n\nIt sounds too good to be true. What's the catch - there must be one?\n",
+				"date_published": "2021-02-09T09:19:52+05:30",
+				"url": "https://www.amitgawande.com/2021/02/09/has-anyone-used.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://tales.micro.blog/2021/02/08/this-comment-from.html",
 				
 				"content_html": "<p>This <a href=\"http://scripting.com/2021/02/06.html#a165834\">comment from Dave Winer</a> made me pause.</p>\n\n<blockquote>\n<p>[Y]ou don&rsquo;t make money from a blog or podcast, but you can make money because of a blog or podcast.</p>\n</blockquote>\n",
