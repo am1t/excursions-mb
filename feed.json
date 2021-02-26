@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2021/02/26/why-is-it.html",
+				
+				"content_html": "<p>\n  Why is it that it's only the Mac, iPhone, or iPad apps that work well with the Indieweb principles? Say, for example, integrating well through a micropub endpoint? Are all Indieweb app developers in the Apple ecosystem?\n  <br />\n</p>\n",
+				"content_text": "<p>\n  Why is it that it's only the Mac, iPhone, or iPad apps that work well with the Indieweb principles? Say, for example, integrating well through a micropub endpoint? Are all Indieweb app developers in the Apple ecosystem?\n  <br />\n</p>\n",
+				"date_published": "2021-02-26T07:02:03+05:30",
+				"url": "https://www.amitgawande.com/2021/02/26/why-is-it.html",
+				"tags": ["Thoughts","Tech"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/02/24/i-dont-like.html",
+				
+				"content_html": "<p>\n  I don't like GitHub's dark theme - it's painful to my eyes. There's too much contrast between the dark background and the lighter fonts. It's not simply about going white on black - getting the balance of shades right is not a trivial thing.\n  <br />\n</p>\n",
+				"content_text": "<p>\n  I don't like GitHub's dark theme - it's painful to my eyes. There's too much contrast between the dark background and the lighter fonts. It's not simply about going white on black - getting the balance of shades right is not a trivial thing.\n  <br />\n</p>\n",
+				"date_published": "2021-02-24T21:14:50+05:30",
+				"url": "https://www.amitgawande.com/2021/02/24/i-dont-like.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/02/24/sometimes-i-get.html",
+				
+				"content_html": "<p>\n  Sometimes I get afraid of tapping that YouTube app. It just drains too much of my time - even with all my efforts to make the service <a href=\"https://www.amitgawande.com/2019/12/26/070000.html\">a lot less addictive</a>. I fear this service even more than any social media app out there. I know I will start with something interesting, but will eventually start watching the same old videos that I've already seen. \n  <br />\n</p>\n<p> It is easier to stop myself going in than to convince myself to come out. <i>Inertia much</i>?</p>\n",
+				"content_text": "<p>\n  Sometimes I get afraid of tapping that YouTube app. It just drains too much of my time - even with all my efforts to make the service <a href=\"https://www.amitgawande.com/2019/12/26/070000.html\">a lot less addictive</a>. I fear this service even more than any social media app out there. I know I will start with something interesting, but will eventually start watching the same old videos that I've already seen. \n  <br />\n</p>\n<p> It is easier to stop myself going in than to convince myself to come out. <i>Inertia much</i>?</p>\n",
+				"date_published": "2021-02-24T20:45:23+05:30",
+				"url": "https://www.amitgawande.com/2021/02/24/sometimes-i-get.html",
+				"tags": ["Thoughts","Tech"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/02/24/i-only-recently.html",
+				
+				"content_html": "<p>I only recently came across this wonderful Netflix show <a href=\"https://www.rottentomatoes.com/tv/manhunt/s01\">Manhunt: Unabomber</a>. Boy, it was brilliant - No idea how it missed my radar. Such a thrilling story narrated in an engrossing manner. Masterful, intelligent and affecting.</p>\n",
+				"content_text": "I only recently came across this wonderful Netflix show [Manhunt: Unabomber](https://www.rottentomatoes.com/tv/manhunt/s01). Boy, it was brilliant - No idea how it missed my radar. Such a thrilling story narrated in an engrossing manner. Masterful, intelligent and affecting.\n",
+				"date_published": "2021-02-24T07:19:25+05:30",
+				"url": "https://www.amitgawande.com/2021/02/24/i-only-recently.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/02/23/dropbox-can-also.html",
+				
+				"content_html": "<p>Dropbox <a href=\"https://www.dropbox.com/features/security/passwords\">can also store your passwords</a> now with their password manager - and it&rsquo;s built into their Plus and Professional plans. This could be a good option for those <a href=\"https://www.amitgawande.com/2021/02/17/i-know-password.html\">affected by the LastPass change to their Free plan</a>.</p>\n\n<p>Not for me though - am not (yet) a paying Dropbox customer. I don&rsquo;t know till when that can last. Appears to me that all services I use are reconsidering their free tiers.</p>\n",
+				"content_text": "Dropbox [can also store your passwords](https://www.dropbox.com/features/security/passwords) now with their password manager - and it's built into their Plus and Professional plans. This could be a good option for those [affected by the LastPass change to their Free plan](https://www.amitgawande.com/2021/02/17/i-know-password.html). \n\nNot for me though - am not (yet) a paying Dropbox customer. I don't know till when that can last. Appears to me that all services I use are reconsidering their free tiers.\n",
+				"date_published": "2021-02-23T08:47:26+05:30",
+				"url": "https://www.amitgawande.com/2021/02/23/dropbox-can-also.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/02/23/071825.html",
+				
+				"content_html": "<p>For all the non-iOS users, what&rsquo;s the Android phone that you currently use or are planning to upgrade to?</p>\n\n<p>(That question also brings a sad reality of duopoly that the exists today.)</p>\n",
+				"content_text": "For all the non-iOS users, what's the Android phone that you currently use or are planning to upgrade to? \n\n(That question also brings a sad reality of duopoly that the exists today.)\n",
+				"date_published": "2021-02-23T07:18:25+05:30",
+				"url": "https://www.amitgawande.com/2021/02/23/071825.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/02/18/of-course-there.html",
+				
+				"content_html": "<p>Of course, there had to be a term decision fatigue - &ldquo;the emotional and mental strain resulting from a burden of choices&rdquo;. It has to be the king of all fatigues. It leaves you paralyzed. What&rsquo;s worse is you still go through your motions as if everything&rsquo;s normal. Pathetic!</p>\n",
+				"content_text": "Of course, there had to be a term decision fatigue - \"the emotional and mental strain resulting from a burden of choices\". It has to be the king of all fatigues. It leaves you paralyzed. What's worse is you still go through your motions as if everything's normal. Pathetic!\n",
+				"date_published": "2021-02-18T09:51:48+05:30",
+				"url": "https://www.amitgawande.com/2021/02/18/of-course-there.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://tales.micro.blog/2021/02/17/i-know-password.html",
 				
 				"content_html": "<p>I know password manager's an important service and one shouldn't hesitate to pay for it. But LastPass's free tier was a good enough option for me; there was no feature that I needed to pay the subscription price for. That changed with today's modifications to that free tier.</p>\n<p>\n  That update also made me reevaluate my options. And I realized 1Password is a better option <i>for me</i> -- both in terms of the features and the cost it charges (especially in Indian market).\n  <br />\n</p>\n<p>\n  So I've ditched LastPass the moment they asked me to pay. Is that cheating?\n  <br />\n</p>\n",
