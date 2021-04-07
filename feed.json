@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2021/04/07/the-effort-that.html",
+				
+				"content_html": "<p>The effort that the developers across collectively spent on building the &ldquo;small&rdquo;, &ldquo;light&rdquo; javascript framework of their liking is way too high. Sure, build that framework &ndash; just don&rsquo;t carry an expectation of it being perfect.</p>\n",
+				"content_text": "The effort that the developers across collectively spent on building the \"small\", \"light\" javascript framework of their liking is way too high. Sure, build that framework -- just don't carry an expectation of it being perfect.\n",
+				"date_published": "2021-04-07T16:04:29+05:30",
+				"url": "https://www.amitgawande.com/2021/04/07/the-effort-that.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/04/01/i-am-curious.html",
+				
+				"content_html": "<p>I am curious - isn&rsquo;t a drone that can carry a human just a helicopter? A self-driving, may be. What about a flying car? What makes it different from what exists today? Every sci-fi futuristic world has such flying cars, even trains for that matter. I don&rsquo;t like those skies.</p>\n",
+				"content_text": "I am curious - isn't a drone that can carry a human just a helicopter? A self-driving, may be. What about a flying car? What makes it different from what exists today? Every sci-fi futuristic world has such flying cars, even trains for that matter. I don't like those skies.\n",
+				"date_published": "2021-04-01T09:51:22+05:30",
+				"url": "https://www.amitgawande.com/2021/04/01/i-am-curious.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/03/30/if-you-maintain.html",
+				
+				"content_html": "<p>If you maintain a <code>/now</code> page <a href=\"https://www.amitgawande.com/now/\">like I do</a>, what do you write in there? What&rsquo;s a good enough update? I keep swinging between very text-heavy and too terse &ndash; I haven&rsquo;t found the right balance yet.</p>\n",
+				"content_text": "If you maintain a `/now` page [like I do](https://www.amitgawande.com/now/), what do you write in there? What's a good enough update? I keep swinging between very text-heavy and too terse -- I haven't found the right balance yet.\n",
+				"date_published": "2021-03-30T21:15:00+05:30",
+				"url": "https://www.amitgawande.com/2021/03/30/if-you-maintain.html",
+				"tags": ["Meta"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/03/29/dan-lewis-recently.html",
+				
+				"content_html": "<p>\n  Dan Lewis recently made me aware of one of the most beautiful love story, that of <a href=\"http://nowiknow.com/long-distance-love-birds/\">Long Distance Love Birds</a>. \n  <br />\n</p>\n<blockquote>\n  <p>The story would have ended there but in 2001, something unexpected happened: another stork arrived. A male stork. The two mated and shortly afterward, the male stork left, as one would expect, being a migratory bird and all. But storks are also known for being serial monogamists; while they don’t mate for life, they tend to stick with the same partner so long as that partner is on the same migratory path. In this case, though, Malena had no migratory path, and the bird that happened across her nest seemed unlikely to return.</p>\n  <p>Until he did, a year later. And a year after that. And a year after that, too.</p>\n</blockquote>\n<p>\n  Ah, love indeed is universal. And in this case, it literally has no boundaries. Such a pretty, happy story. To anyone who says long-distance relationship doesn't work, I have <i>another</i> real life story bookmarked now.\n  <br />\n</p>\n",
+				"content_text": "<p>\n  Dan Lewis recently made me aware of one of the most beautiful love story, that of <a href=\"http://nowiknow.com/long-distance-love-birds/\">Long Distance Love Birds</a>. \n  <br />\n</p>\n<blockquote>\n  <p>The story would have ended there but in 2001, something unexpected happened: another stork arrived. A male stork. The two mated and shortly afterward, the male stork left, as one would expect, being a migratory bird and all. But storks are also known for being serial monogamists; while they don’t mate for life, they tend to stick with the same partner so long as that partner is on the same migratory path. In this case, though, Malena had no migratory path, and the bird that happened across her nest seemed unlikely to return.</p>\n  <p>Until he did, a year later. And a year after that. And a year after that, too.</p>\n</blockquote>\n<p>\n  Ah, love indeed is universal. And in this case, it literally has no boundaries. Such a pretty, happy story. To anyone who says long-distance relationship doesn't work, I have <i>another</i> real life story bookmarked now.\n  <br />\n</p>\n",
+				"date_published": "2021-03-29T19:19:05+05:30",
+				"url": "https://www.amitgawande.com/2021/03/29/dan-lewis-recently.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/03/25/what-data-cant.html",
+				
+				"content_html": "<p><a href=\"https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do\">What Data Can’t Do</a> →</p>\n\n<blockquote>\n<p>Numbers don’t lie, except when they do. They [statistics] can help remedy our human fallibilities. What’s easy to forget is that statistics can amplify these fallibilities, too.</p>\n</blockquote>\n",
+				"content_text": "[What Data Can’t Do](https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do) →\r\n\r\n> Numbers don’t lie, except when they do. They [statistics] can help remedy our human fallibilities. What’s easy to forget is that statistics can amplify these fallibilities, too.\n",
+				"date_published": "2021-03-25T13:20:22+05:30",
+				"url": "https://www.amitgawande.com/2021/03/25/what-data-cant.html",
+				"tags": ["Thoughts","Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/03/25/this-discussion-on.html",
+				
+				"content_html": "<p>This <a href=\"https://physics.stackexchange.com/questions/621654/what-speed-shall-i-go-to-make-my-day-longer\">discussion on Stack Exchange</a> proves again that the majority, including me, understands so little of the relativity theory. Easy to think it&rsquo;s easy. It ain&rsquo;t.</p>\n\n<blockquote>\n<p>So at what speed I should travel to make my 24 hours day equals 36 hours?</p>\n</blockquote>\n",
+				"content_text": "This [discussion on Stack Exchange](https://physics.stackexchange.com/questions/621654/what-speed-shall-i-go-to-make-my-day-longer) proves again that the majority, including me, understands so little of the relativity theory. Easy to think it's easy. It ain't.\r\n\r\n> So at what speed I should travel to make my 24 hours day equals 36 hours?\n",
+				"date_published": "2021-03-25T12:19:44+05:30",
+				"url": "https://www.amitgawande.com/2021/03/25/this-discussion-on.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/03/25/it-was-a.html",
+				
+				"content_html": "<p>It was a couple of years ago when I <a href=\"https://www.amitgawande.com/2019/03/25/213000.html\">had ranted</a> about how the alternatives to the popular social networks are not seriously considered. A discussion something on these lines.</p>\n\n<blockquote>\n<p>What all alternatives have you tried? Were there none that were good? If so, why? What is missing? How can they be made better? What is it that you are looking for in a social network?</p>\n</blockquote>\n\n<p>It&rsquo;s so frustrating to see the state hardly change. A call to <em>tell the makers of the service why you cannot use their service</em> is rarely answered. Sure, new social networks are launched, but they have the same underlying problems. They create unnecessary flutter and eventually die down. Why not create buzz for something that&rsquo;s not aiming simply for the acquisition?</p>\n",
+				"content_text": "It was a couple of years ago when I [had ranted](https://www.amitgawande.com/2019/03/25/213000.html) about how the alternatives to the popular social networks are not seriously considered. A discussion something on these lines.\r\n\r\n> What all alternatives have you tried? Were there none that were good? If so, why? What is missing? How can they be made better? What is it that you are looking for in a social network?\r\n\r\nIt's so frustrating to see the state hardly change. A call to *tell the makers of the service why you cannot use their service* is rarely answered. Sure, new social networks are launched, but they have the same underlying problems. They create unnecessary flutter and eventually die down. Why not create buzz for something that's not aiming simply for the acquisition?\n",
+				"date_published": "2021-03-25T10:50:10+05:30",
+				"url": "https://www.amitgawande.com/2021/03/25/it-was-a.html",
+				"tags": ["Thoughts","Tech"]
+			},
+			{
 				"id": "http://tales.micro.blog/2021/03/20/i-love-my.html",
 				
 				"content_html": "<p>I love my laptop a lot more than my smartphone and my tablet. I&rsquo;m more comfortable with the trackpad and the keyboard than a touchscreen. I can focus more with a lot more windows in front of me than say one full-screen app. This list goes on and on. What &ldquo;Gen&rdquo; am I?</p>\n",
@@ -40,7 +103,7 @@
 				"content_text": "[The 2021 Oscar Nominations, and What Should Have Made the List](https://www.newyorker.com/culture/the-front-row/the-2021-oscar-nominations-and-what-should-have-made-the-list) →\r\n\r\n> It seemed obvious that the absence of many big-budget movies this past year would clear the way for smaller films to earn nominations, and that turned out to be true. \r\n\r\nI know of so few from this year's list.\n",
 				"date_published": "2021-03-18T22:08:18+05:30",
 				"url": "https://www.amitgawande.com/2021/03/18/the-oscar-nominations.html",
-				"tags": ["Thoughts"]
+				"tags": ["Thoughts","Links"]
 			},
 			{
 				"id": "http://tales.micro.blog/2021/03/18/the-first-promise.html",
@@ -202,7 +265,7 @@
 				"content_text": "[Me, Reading](https://www.newyorker.com/magazine/2012/01/30/me-reading) →\r\n\r\n> No! How can this be?! I’ve read only fifty-two per cent of this damn book?\r\n\r\nNo! How can this be?! That's exactly me, reading.\n",
 				"date_published": "2021-03-04T09:49:06+05:30",
 				"url": "https://www.amitgawande.com/2021/03/04/me-reading-no.html",
-				"tags": ["Thoughts"]
+				"tags": ["Thoughts","Links"]
 			},
 			{
 				"id": "http://tales.micro.blog/2021/03/01/is-there-a.html",
@@ -355,7 +418,7 @@
 				"content_text": "[Stop Defacing Quotes With Brackets!](https://slate.com/human-interest/2021/02/stop-defacing-quotes-with-brackets.html) →\r\n\r\n> If the changes are not obvious, don’t use the quote; if they’re not necessary, don’t use the brackets. The goal is to present the quotation as directly as possible.\n",
 				"date_published": "2021-02-09T14:12:41+05:30",
 				"url": "https://www.amitgawande.com/2021/02/09/stop-defacing-quotes.html",
-				"tags": ["Thoughts"]
+				"tags": ["Thoughts","Links"]
 			},
 			{
 				"id": "http://tales.micro.blog/2021/02/09/has-anyone-used.html",
@@ -382,7 +445,7 @@
 				"content_text": "[Why We Fight Over Fiction](https://www.overcomingbias.com/2020/11/why-we-fight-over-fiction.html) →\n\n> Our moral evaluations of the main big actions that influence our world today, and that built our world from past worlds, are still up for grabs.\n",
 				"date_published": "2021-02-08T07:48:09+05:30",
 				"url": "https://www.amitgawande.com/2021/02/08/why-we-fight.html",
-				"tags": ["Thoughts"]
+				"tags": ["Thoughts","Links"]
 			},
 			{
 				"id": "http://tales.micro.blog/2021/02/01/why-is-it.html",
@@ -544,7 +607,7 @@
 				"content_text": "[The New York Times Sells Envy](https://www.nationalreview.com/2020/11/the-new-york-times-sells-envy) →\r\n\r\n> [E]nvy and ingratitude sell, so Manjoo gets to misrepresent data, twist facts, and sow resentment in the paper of record.\n",
 				"date_published": "2020-11-26T15:15:58+05:30",
 				"url": "https://www.amitgawande.com/2020/11/26/the-new-york.html",
-				"tags": ["Thoughts"]
+				"tags": ["Thoughts","Links"]
 			},
 			{
 				"id": "http://tales.micro.blog/2020/11/25/the-world-would.html",
@@ -571,7 +634,7 @@
 				"content_text": "[To Let it Out](https://lookslikeyouneediceland.com/) →\r\n\r\n> You’ve been through a lot this year and it looks like you need the perfect place to let your frustrations out. Somewhere big, vast and untouched. (...) Record your scream and we’ll release it in Iceland’s beautiful, wide-open spaces.\r\n\r\nWhat unique idea that!\n",
 				"date_published": "2020-11-24T11:49:04+05:30",
 				"url": "https://www.amitgawande.com/2020/11/24/to-let-it.html",
-				"tags": ["Thoughts"]
+				"tags": ["Thoughts","Links"]
 			},
 			{
 				"id": "http://tales.micro.blog/2020/11/23/all-forms-of.html",
@@ -589,7 +652,7 @@
 				"content_text": "[When Computers Were Cool](https://datagubbe.se/coolcomp.html) →\r\n\r\n> [T]here isn't, today, an equivalent of the SGI Indy, or the Sun SPARCstation, or the DEC Alpha, or any of the other professional workstations. The only thing that's on offer is more of the same user experience, only slightly faster. That's why computers are so boring these days.\n",
 				"date_published": "2020-11-23T10:50:29+05:30",
 				"url": "https://www.amitgawande.com/2020/11/23/when-computers-were.html",
-				"tags": ["Thoughts"]
+				"tags": ["Thoughts","Links"]
 			},
 			{
 				"id": "http://tales.micro.blog/2020/11/22/i-read-the.html",
@@ -715,7 +778,7 @@
 				"content_text": "[Google Photos Just Made the Case for Breaking Up Big Tech](https://onezero.medium.com/google-photos-just-made-the-case-for-breaking-up-big-tech-420dc6b5d375)→\n\n> Now that Google has lured more than 1 billion users to the service, making it an integral part of their digital lives (_not to mention a huge hassle to switch_ , that original selling point is gone.\n\nIt's that part emphasized that worries me - there's no easy way to switch away from Google Photos. No APIs. No sync. Nothing. \n\nI don't care, or understand enough about the US anti-competitive laws. But what I do understand is that staying invested in only Google's offering is becoming more risky with each passing year.\n",
 				"date_published": "2020-11-13T06:48:00+05:30",
 				"url": "https://www.amitgawande.com/2020/11/13/google-photos-just.html",
-				"tags": ["Thoughts"]
+				"tags": ["Thoughts","Links"]
 			},
 			{
 				"id": "http://tales.micro.blog/2020/11/12/the-chilly-winds.html",
@@ -931,7 +994,7 @@
 				"content_text": "[On Motivation and Writing Prompts →](https://afc.letterspace.org/2020/10/31/on-motivation-and-writing-prompts)\n\n> Prompts don’t “force” us to be creative: they give us an excuse to practice, to play with our tools, and, if we’re lucky, to make discoveries we might not otherwise have made.\n\nI agree with Robert - prompts are to get you practice writing.\n",
 				"date_published": "2020-11-01T11:36:44+05:30",
 				"url": "https://www.amitgawande.com/2020/11/01/on-motivation-and.html",
-				"tags": ["Thoughts"]
+				"tags": ["Thoughts","Links"]
 			},
 			{
 				"id": "http://tales.micro.blog/2020/10/31/i-came-across.html",
