@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2021/05/14/look-what-i.html",
+				
+				"content_html": "<p>Look what I got! Thank you, <a href=\"http://micro.blog/jean\">Jean</a> ☺️</p>\n\n<p><img src=\"uploads/2021/844d8137af.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Look what I got! Thank you, [Jean](http://micro.blog/jean) ☺️\n\n<img src=\"uploads/2021/844d8137af.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-05-14T07:41:00+05:30",
+				"url": "https://www.amitgawande.com/2021/05/14/look-what-i.html",
+				"tags": ["Thoughts","Photos"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/05/09/say-you-are.html",
+				
+				"content_html": "<p>Say you are focused, reading something and thoughts keep popping up in your mind. About some stuff that you need to search for or quickly check the status of or need to research on later. Or simply make a note of. What do you do? What&rsquo;s the quickest way to get back to reading?</p>\n",
+				"content_text": "Say you are focused, reading something and thoughts keep popping up in your mind. About some stuff that you need to search for or quickly check the status of or need to research on later. Or simply make a note of. What do you do? What's the quickest way to get back to reading?\n",
+				"date_published": "2021-05-09T20:27:03+05:30",
+				"url": "https://www.amitgawande.com/2021/05/09/say-you-are.html",
+				"tags": ["Thoughts","Query"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/05/09/i-clicked-on.html",
+				
+				"content_html": "<p>I clicked on a link to an article at CBS. As per my defaults, it opened up in Firefox. CBS asked whether it should open in their app or continue in Chrome. Chrome? Is Chrome synonymous to browser now? That can be healthy for the web.</p>\n",
+				"content_text": "I clicked on a link to an article at CBS. As per my defaults, it opened up in Firefox. CBS asked whether it should open in their app or continue in Chrome. Chrome? Is Chrome synonymous to browser now? That can be healthy for the web.\n",
+				"date_published": "2021-05-09T09:01:00+05:30",
+				"url": "https://www.amitgawande.com/2021/05/09/i-clicked-on.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://tales.micro.blog/2021/05/03/yahoo-the-destroyer.html",
 				
 				"content_html": "<p><a href=\"https://www.theatlantic.com/technology/archive/2021/04/how-yahoo-became-internet-villain/618681/\">Yahoo, the destroyer</a> →</p>\n\n<blockquote>\n<p>After almost 30 years in business, Yahoo has come to be known as a straight-up villain. [T]he company’s most notable characteristic at this point is “the sheer amount of destruction they’ve done to the historical record.”</p>\n</blockquote>\n",
