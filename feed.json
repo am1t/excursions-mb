@@ -7,10 +7,91 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2021/05/19/i-got-overwhelmed.html",
+				
+				"content_html": "<p>I got overwhelmed looking at the color palette spread across Android 12 via Material You. I have spent minutes just choosing the wallpaper. This much customisation is not for me - I need customisation-as-a-service.</p>\n",
+				"content_text": "I got overwhelmed looking at the color palette spread across Android 12 via Material You. I have spent minutes just choosing the wallpaper. This much customisation is not for me - I need customisation-as-a-service.\n",
+				"date_published": "2021-05-19T08:49:49+05:30",
+				"url": "https://www.amitgawande.com/2021/05/19/i-got-overwhelmed.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/05/17/free-beer-money.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/2021/05/03/us/Coronavirus-vaccine-appointment-incentives.html\">Free beer, money</a>. <a href=\"https://www.nbcnews.com/politics/white-house/biden-detail-lyft-uber-plan-provide-free-rides-vaccination-sites-n1266972\">Free rides to vaccination sites</a>. And the incentives continue to pour in from the administration in US. And then there&rsquo;s the struggle for vaccine slots in India &amp; other contries.</p>\n\n<p>Faulty, lethargic adminstration? Economic gap? Selfish, mindless leaders? Sure, the reasons are many. But how does one argue with a common man who is convinced it&rsquo;s an unfair world? That it&rsquo;s a world where the scales are always tipped towards a richer populace?</p>\n",
+				"content_text": "[Free beer, money](https://www.nytimes.com/2021/05/03/us/Coronavirus-vaccine-appointment-incentives.html). [Free rides to vaccination sites](https://www.nbcnews.com/politics/white-house/biden-detail-lyft-uber-plan-provide-free-rides-vaccination-sites-n1266972). And the incentives continue to pour in from the administration in US. And then there's the struggle for vaccine slots in India & other contries. \n\nFaulty, lethargic adminstration? Economic gap? Selfish, mindless leaders? Sure, the reasons are many. But how does one argue with a common man who is convinced it's an unfair world? That it's a world where the scales are always tipped towards a richer populace?\n",
+				"date_published": "2021-05-17T10:35:00+05:30",
+				"url": "https://www.amitgawande.com/2021/05/17/free-beer-money.html",
+				"tags": ["Thoughts","Life"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/05/17/i-hate-bingewatching.html",
+				
+				"content_html": "<p>I hate binge-watching shows, but I fall for it so often. I like the weekly release of the new episodes. I wish the streaming services forced an episode a day even for released shows. I know they won&rsquo;t - it impacts their key business metric.</p>\n",
+				"content_text": "I hate binge-watching shows, but I fall for it so often. I like the weekly release of the new episodes. I wish the streaming services forced an episode a day even for released shows. I know they won't - it impacts their key business metric. \n",
+				"date_published": "2021-05-17T09:17:00+05:30",
+				"url": "https://www.amitgawande.com/2021/05/17/i-hate-bingewatching.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/05/16/you-can-get.html",
+				
+				"content_html": "<p>&ldquo;You can get rid of masks <em>if</em> you are vaccinated&rdquo; is a faulty message. People are selective listeners. A section might ignore the later part.</p>\n",
+				"content_text": "\"You can get rid of masks *if* you are vaccinated\" is a faulty message. People are selective listeners. A section might ignore the later part.\n",
+				"date_published": "2021-05-16T09:52:00+05:30",
+				"url": "https://www.amitgawande.com/2021/05/16/you-can-get.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/05/16/how-to-actually.html",
+				
+				"content_html": "<p><a href=\"https://pocket.co/xhvjfH\">How to (Actually) Save Time When You’re Working Remotely</a> →</p>\n\n<blockquote>\n<p>During a time of global crisis, it’s healthy to prioritize relaxation, and it’s natural that we might struggle to maximize productivity at work. But as we return to semi-normalcy, what can we do to ensure we use our time savings to pursue meaningful activities that make us truly happy?</p>\n</blockquote>\n",
+				"content_text": "[How to (Actually) Save Time When You’re Working Remotely](https://pocket.co/xhvjfH) →\n\n> During a time of global crisis, it’s healthy to prioritize relaxation, and it’s natural that we might struggle to maximize productivity at work. But as we return to semi-normalcy, what can we do to ensure we use our time savings to pursue meaningful activities that make us truly happy?\n",
+				"date_published": "2021-05-16T09:21:00+05:30",
+				"url": "https://www.amitgawande.com/2021/05/16/how-to-actually.html",
+				"tags": ["Thoughts","Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/05/16/whats-the-recommended.html",
+				
+				"content_html": "<p>What&rsquo;s the recommended Text Expander utilities for Windows and Android? It comes so handy and is another thing I miss from Apple ecosystem. Only one that I&rsquo;ve come across is <a href=\"https://www.phraseexpress.com/\">Phrase Express</a>.</p>\n",
+				"content_text": "What's the recommended Text Expander utilities for Windows and Android? It comes so handy and is another thing I miss from Apple ecosystem. Only one that I've come across is [Phrase Express](https://www.phraseexpress.com/). \n",
+				"date_published": "2021-05-16T09:16:00+05:30",
+				"url": "https://www.amitgawande.com/2021/05/16/whats-the-recommended.html",
+				"tags": ["Thoughts","Query"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/05/15/before-there-are.html",
+				
+				"content_html": "<p>Before there was Twitter and Facebook and other social media, was there any physical equivalent of likes and reshares. And hashtags? Because these interactions stem from the social instincts of us humans, right?</p>\n",
+				"content_text": "Before there was Twitter and Facebook and other social media, was there any physical equivalent of likes and reshares. And hashtags? Because these interactions stem from the social instincts of us humans, right? \n",
+				"date_published": "2021-05-15T11:04:00+05:30",
+				"url": "https://www.amitgawande.com/2021/05/15/before-there-are.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/05/15/how-crazy-is.html",
+				
+				"content_html": "<p>How crazy is the mind? It already believes mask is the normal attire. Just a thought of seeing people around without masks makes it queasy.</p>\n",
+				"content_text": "How crazy is the mind? It already believes mask is the normal attire. Just a thought of seeing people around without masks makes it queasy.\n",
+				"date_published": "2021-05-15T08:51:00+05:30",
+				"url": "https://www.amitgawande.com/2021/05/15/how-crazy-is.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/05/15/i-always-struggle.html",
+				
+				"content_html": "<p>I always struggle giving titles for my regular posts - especially quick thoughts. Sure, if I&rsquo;m writing a tech post or writing about a specific topic, giving it a title is easy. But forcing title on every post is fiddly. It can never encompass what the post is about.</p>\n",
+				"content_text": "I always struggle giving titles for my regular posts - especially quick thoughts. Sure, if I'm writing a tech post or writing about a specific topic, giving it a title is easy. But forcing title on every post is fiddly. It can never encompass what the post is about. \n",
+				"date_published": "2021-05-15T07:46:00+05:30",
+				"url": "https://www.amitgawande.com/2021/05/15/i-always-struggle.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://tales.micro.blog/2021/05/14/look-what-i.html",
 				
-				"content_html": "<p>Look what I got! Thank you, <a href=\"http://micro.blog/jean\">Jean</a> ☺️</p>\n\n<p><img src=\"uploads/2021/844d8137af.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Look what I got! Thank you, [Jean](http://micro.blog/jean) ☺️\n\n<img src=\"uploads/2021/844d8137af.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Look what I got! Thank you, <a href=\"http://micro.blog/jean\">Jean</a> ☺️</p>\n\n<p><img src=\"https://www.amitgawande.com/uploads/2021/844d8137af.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Look what I got! Thank you, [Jean](http://micro.blog/jean) ☺️\n\n<img src=\"https://www.amitgawande.com/uploads/2021/844d8137af.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-14T07:41:00+05:30",
 				"url": "https://www.amitgawande.com/2021/05/14/look-what-i.html",
 				"tags": ["Thoughts","Photos"]
@@ -405,8 +486,8 @@
 			{
 				"id": "http://tales.micro.blog/2021/03/14/is-your-dog.html",
 				
-				"content_html": "<p><a href=\"https://www.newyorker.com/humor/daily-shouts/is-your-dog-really-your-best-friend\">Is Your Dog Really Your Best Friend?</a> →</p>\n\n<p><center><img src=\"uploads/2021/662006c64d.jpg\" width=\"360\" height=\"361\" alt=\"\" /></center></p>\n",
-				"content_text": "[Is Your Dog Really Your Best Friend?](https://www.newyorker.com/humor/daily-shouts/is-your-dog-really-your-best-friend) →\n\n<center><img src=\"uploads/2021/662006c64d.jpg\" width=\"360\" height=\"361\" alt=\"\" /></center>\n",
+				"content_html": "<p><a href=\"https://www.newyorker.com/humor/daily-shouts/is-your-dog-really-your-best-friend\">Is Your Dog Really Your Best Friend?</a> →</p>\n\n<p><center><img src=\"https://www.amitgawande.com/uploads/2021/662006c64d.jpg\" width=\"360\" height=\"361\" alt=\"\" /></center></p>\n",
+				"content_text": "[Is Your Dog Really Your Best Friend?](https://www.newyorker.com/humor/daily-shouts/is-your-dog-really-your-best-friend) →\n\n<center><img src=\"https://www.amitgawande.com/uploads/2021/662006c64d.jpg\" width=\"360\" height=\"361\" alt=\"\" /></center>\n",
 				"date_published": "2021-03-14T09:04:00+05:30",
 				"url": "https://www.amitgawande.com/2021/03/14/is-your-dog.html",
 				"tags": ["Links"]
