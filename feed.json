@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2021/07/10/is-pinboard-still.html",
+				
+				"content_html": "<p>Is pinboard still the best bookmarking option that exist out there?</p>\n",
+				"content_text": "Is pinboard still the best bookmarking option that exist out there?\n",
+				"date_published": "2021-07-10T18:47:08+05:30",
+				"url": "https://www.amitgawande.com/2021/07/10/is-pinboard-still.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/07/05/i-understand-link.html",
+				
+				"content_html": "<p>I understand link rot is considered as a huge problem. But why? I mean I technically understand why. But I feel it is a feature of every entity, digital or <em>physical</em> - if not taken care of, it gets lost with time. Rotten.</p>\n",
+				"content_text": "I understand link rot is considered as a huge problem. But why? I mean I technically understand why. But I feel it is a feature of every entity, digital or *physical* - if not taken care of, it gets lost with time. Rotten. \n",
+				"date_published": "2021-07-05T08:00:00+05:30",
+				"url": "https://www.amitgawande.com/2021/07/05/i-understand-link.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/06/30/there-are-days.html",
+				
+				"content_html": "<p>There are days when you just don&rsquo;t want to do anything that you need to do. You know you should do it. But you can&rsquo;t convince your mind to be focused at it. Having one such day &ndash; these are the worst. The days with roadblocks are easier to handle.</p>\n",
+				"content_text": "There are days when you just don't want to do anything that you need to do. You know you should do it. But you can't convince your mind to be focused at it. Having one such day -- these are the worst. The days with roadblocks are easier to handle. \n",
+				"date_published": "2021-06-30T17:26:59+05:30",
+				"url": "https://www.amitgawande.com/2021/06/30/there-are-days.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://tales.micro.blog/2021/06/28/the-only-time.html",
 				
 				"content_html": "<p>The only time I would trust a service like <a href=\"https://onetimesecret.com/\">One-Time Secret</a> - a way to share sensitive information - is if it is open sourced. Even with that, I would be extremely careful. I understand, without context secrets are gibberish. But still, I feel slightly uncomfortable.</p>\n",
