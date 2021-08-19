@@ -7,6 +7,96 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2021/08/19/thats-one-angry.html",
+				
+				"content_html": "<p>That’s one angry, cuddly Autobot! 🤖</p>\n\n<p><img src=\"uploads/2021/2aff51d5e9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "That’s one angry, cuddly Autobot! 🤖\n\n<img src=\"uploads/2021/2aff51d5e9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-08-19T15:27:37+05:30",
+				"url": "https://www.amitgawande.com/2021/08/19/thats-one-angry.html",
+				"tags": ["Thoughts","Photos"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/08/18/i-published-my.html",
+				
+				"content_html": "<p>I published <a href=\"https://vi.to/hubs/microcamp/pages/amit-gawande\">my Micro Camp talk</a> as a blog post today - a feedback I had received after the talk. In case you missed the talk or prefer listening to it in your own voice instead of mine, <a href=\"https://essays.amitgawande.com/be-a-donkey/\">here you go</a>. 😊</p>\n",
+				"content_text": "I published [my Micro Camp talk](https://vi.to/hubs/microcamp/pages/amit-gawande) as a blog post today - a feedback I had received after the talk. In case you missed the talk or prefer listening to it in your own voice instead of mine, [here you go](https://essays.amitgawande.com/be-a-donkey/). 😊\n",
+				"date_published": "2021-08-18T21:55:25+05:30",
+				"url": "https://www.amitgawande.com/2021/08/18/i-published-my.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/08/17/benches-of-varied.html",
+				
+				"content_html": "<p>Benches of varied colours and shapes- they always attract me. They have their ears to many wonderful personal stories.</p>\n\n<p><img src=\"uploads/2021/5907da47a9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Benches of varied colours and shapes- they always attract me. They have their ears to many wonderful personal stories. \n\n<img src=\"uploads/2021/5907da47a9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-08-17T12:49:15+05:30",
+				"url": "https://www.amitgawande.com/2021/08/17/benches-of-varied.html",
+				"tags": ["Thoughts","Photos"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/08/17/over-the-years.html",
+				
+				"content_html": "<p>Over the years, I&rsquo;ve hoarded so much of electronic crap. Every now and then, I will find an odd charging cable or a dongle - I have no idea what they are for. I keep getting rid of them and the crap keeps finding a way into my home. It&rsquo;s as if there&rsquo;s a secret portal from an alien land to each of my closets 🤦🏽‍♂️</p>\n",
+				"content_text": "Over the years, I've hoarded so much of electronic crap. Every now and then, I will find an odd charging cable or a dongle - I have no idea what they are for. I keep getting rid of them and the crap keeps finding a way into my home. It's as if there's a secret portal from an alien land to each of my closets 🤦🏽‍♂️ \n",
+				"date_published": "2021-08-17T08:51:33+05:30",
+				"url": "https://www.amitgawande.com/2021/08/17/over-the-years.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/08/17/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading the audio book : <a href=\"https://micro.blog/books/9781407008257\">Made to stick</a> by Chip Heath 📚</p>\n",
+				"content_text": "Currently reading the audio book : [Made to stick](https://micro.blog/books/9781407008257) by Chip Heath 📚\n",
+				"date_published": "2021-08-17T07:48:01+05:30",
+				"url": "https://www.amitgawande.com/2021/08/17/currently-reading-the.html",
+				"tags": ["Thoughts","Books"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/08/16/i-am-a.html",
+				
+				"content_html": "<p>I am a coder and a writer. And it is absolutely painful to have these two personalities live within you.</p>\n<p>When the coder wants to code, the writer is checking his choice of words or the structure of comments. Or the depth of documentation -- the writer wants the coder to write an essay. The coder wants to bloody put bullet points, command followed by command. What ends up happening is I take minutes to name one method because the writer didn't like my choice of verb. Urghh!</p>\n<p>On the other hand, the coder makes the life miserable for the writer in me. All the writer wants to do is focus on penning words together. Get coherent, and impactful. And all the writer is whispering in his ears is, \"Look at that font and the colour scheme of the editor. That doesn't look nice, right? What if there is a better editor? What if <i>you</i> make one?\"</p>\n<p>All the writer wants to do is read intently, and there is the coder shouting at him, \"Why isn't your website this beautiful? Look how efficiently it uses JavaScript? Or doesn't use it at all.\" Anything and everything can get the coder excited.</p>\n<p>\n  Boy, given the pain this causes, I'm surprised am still a coder by profession and a writer by hobby. I, at times, feel they could very well kill each other one day.\n  <br />\n</p>\n",
+				"content_text": "<p>I am a coder and a writer. And it is absolutely painful to have these two personalities live within you.</p>\n<p>When the coder wants to code, the writer is checking his choice of words or the structure of comments. Or the depth of documentation -- the writer wants the coder to write an essay. The coder wants to bloody put bullet points, command followed by command. What ends up happening is I take minutes to name one method because the writer didn't like my choice of verb. Urghh!</p>\n<p>On the other hand, the coder makes the life miserable for the writer in me. All the writer wants to do is focus on penning words together. Get coherent, and impactful. And all the writer is whispering in his ears is, \"Look at that font and the colour scheme of the editor. That doesn't look nice, right? What if there is a better editor? What if <i>you</i> make one?\"</p>\n<p>All the writer wants to do is read intently, and there is the coder shouting at him, \"Why isn't your website this beautiful? Look how efficiently it uses JavaScript? Or doesn't use it at all.\" Anything and everything can get the coder excited.</p>\n<p>\n  Boy, given the pain this causes, I'm surprised am still a coder by profession and a writer by hobby. I, at times, feel they could very well kill each other one day.\n  <br />\n</p>\n",
+				"date_published": "2021-08-16T20:07:15+05:30",
+				"url": "https://www.amitgawande.com/2021/08/16/i-am-a.html",
+				"tags": ["Thoughts","Humour"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/08/16/yellow-is-my.html",
+				
+				"content_html": "<p>Yellow is my favourite colour! ☺️</p>\n\n<p><img src=\"https://www.amitgawande.com/uploads/2021/4971d0ac47.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Yellow is my favourite colour! ☺️\n\n<img src=\"https://www.amitgawande.com/uploads/2021/4971d0ac47.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-08-16T19:10:00+05:30",
+				"url": "https://www.amitgawande.com/2021/08/16/yellow-is-my.html",
+				"tags": ["Thoughts","Photos"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/08/16/setting-up-elementaryos.html",
+				
+				"content_html": "<p><a href=\"https://www.amitgawande.com/2021/08/15/current-state-reviving.html\">Setting up ElementaryOS</a> has been a frustrating experience. Attempting to get the WiFi working with updates has broken the whole system twice now. I&rsquo;ve tried all the fixed suggested on the internet - and nothing works. Sigh! Time to try another distro - it&rsquo;s frustrating.</p>\n",
+				"content_text": "[Setting up ElementaryOS](https://www.amitgawande.com/2021/08/15/current-state-reviving.html) has been a frustrating experience. Attempting to get the WiFi working with updates has broken the whole system twice now. I've tried all the fixed suggested on the internet - and nothing works. Sigh! Time to try another distro - it's frustrating.\n",
+				"date_published": "2021-08-16T18:02:04+05:30",
+				"url": "https://www.amitgawande.com/2021/08/16/setting-up-elementaryos.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/08/15/current-state-reviving.html",
+				
+				"content_html": "<p>Current state - reviving an old MacBook Pro.</p>\n\n<p><img src=\"https://www.amitgawande.com/uploads/2021/66913cc675.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Current state - reviving an old MacBook Pro.\n\n<img src=\"https://www.amitgawande.com/uploads/2021/66913cc675.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-08-15T23:29:00+05:30",
+				"url": "https://www.amitgawande.com/2021/08/15/current-state-reviving.html",
+				"tags": ["Thoughts","Photos"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/08/15/all-i-read.html",
+				
+				"content_html": "<p>All I read on the timeline today is about Glass. A lot of people got the access and a lot are awaiting theirs. And I haven&rsquo;t event attempted yet. Sigh! Long way before I get the access I guess. Plus iPhone only is a bummer. If not Android, at least iPad/Web support was must.</p>\n",
+				"content_text": "All I read on the timeline today is about Glass. A lot of people got the access and a lot are awaiting theirs. And I haven't event attempted yet. Sigh! Long way before I get the access I guess. Plus iPhone only is a bummer. If not Android, at least iPad/Web support was must. \n",
+				"date_published": "2021-08-15T08:52:29+05:30",
+				"url": "https://www.amitgawande.com/2021/08/15/all-i-read.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://tales.micro.blog/2021/08/12/blame-and-curse.html",
 				
 				"content_html": "<p>Blame and curse auto-correct as much as you want. But if not for that feature, I would still be spelling Thursday and Marriage incorrectly. Not <em>exaggerating</em>, the <em>occurrence</em> of these mistakes is frequent.</p>\n",
