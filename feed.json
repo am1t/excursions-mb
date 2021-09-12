@@ -7,6 +7,167 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2021/09/12/i-am-on.html",
+				
+				"content_html": "<p>I am on a video call, setting a Windows laptop for one of my cousins. I am sure she is confident that she can set up her laptop — but family wants me to be there. So, here I am for her moral support, which I am sure she didn’t ask for.</p>\n",
+				"content_text": "I am on a video call, setting a Windows laptop for one of my cousins. I am sure she is confident that she can set up her laptop — but family wants me to be there. So, here I am for her moral support, which I am sure she didn’t ask for.\n\n",
+				"date_published": "2021-09-12T13:39:10+05:30",
+				"url": "https://www.amitgawande.com/2021/09/12/i-am-on.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/10/i-published-a.html",
+				
+				"content_html": "<p>I <a href=\"https://essays.amitgawande.com/on-busyness/\">published a few thoughts on busyness</a>. Over the years, I&rsquo;ve realized that my mind has become a pool of copious ideas from varied fields. It is like an open pond, extremely prone to ripples from externalities, big and small. <em>I allow that no more.</em></p>\n",
+				"content_text": "I [published a few thoughts on busyness](https://essays.amitgawande.com/on-busyness/). Over the years, I've realized that my mind has become a pool of copious ideas from varied fields. It is like an open pond, extremely prone to ripples from externalities, big and small. *I allow that no more.*\n",
+				"date_published": "2021-09-10T06:38:00+05:30",
+				"url": "https://www.amitgawande.com/2021/09/10/i-published-a.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/09/be-natural-flaunt.html",
+				
+				"content_html": "<p>Be natural, flaunt your multiple shades. It is the contrast that makes us interesting. Even royal gold needs a contrasting shade on the side to be an ornament. Otherwise on its own, it is just a brick.</p>\n\n<p><img src=\"uploads/2021/294f9ca459.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Be natural, flaunt your multiple shades. It is the contrast that makes us interesting. Even royal gold needs a contrasting shade on the side to be an ornament. Otherwise on its own, it is just a brick.\n\n<img src=\"uploads/2021/294f9ca459.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-09-09T23:19:53+05:30",
+				"url": "https://www.amitgawande.com/2021/09/09/be-natural-flaunt.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/08/my-potential-is.html",
+				
+				"content_html": "<blockquote>\n<p>My potential is mine to fulfill or to waste.</p>\n</blockquote>\n\n<p>I completed agree with <a href=\"https://kimberlyhirsh.com/2021/09/07/in-defense-of.html\">Kimberly Hirsh</a>. When someone says live upto your potential, I don’t understand what that means. Who decided what my potential was? How did you decide that? And the bigger question is, why?</p>\n\n<p>My potential doesn’t define me - what I do, does.</p>\n",
+				"content_text": "> My potential is mine to fulfill or to waste.\n\nI completed agree with [Kimberly Hirsh](https://kimberlyhirsh.com/2021/09/07/in-defense-of.html). When someone says live upto your potential, I don’t understand what that means. Who decided what my potential was? How did you decide that? And the bigger question is, why?\n\nMy potential doesn’t define me - what I do, does.\n\n",
+				"date_published": "2021-09-08T14:54:00+05:30",
+				"url": "https://www.amitgawande.com/2021/09/08/my-potential-is.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/08/i-have-decided.html",
+				
+				"content_html": "<p>I have decided to stay away from all the timelines for the next two weeks. Micro.blog. YouTube<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup>. Netflix. I am taking time off, in a way, from the discussions &amp; chatters to give myself some space to think. It unfortunately isn&rsquo;t possible with views and perspectives from others always clouding mine.</p>\n\n<p>I have, of course, subscribed to the RSS feeds of many whose voices I prefer not to miss. This <a href=\"https://www.amitgawande.com/2021/09/07/whys-there-a.html\">old medium</a> remains the best way I can control what I read.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">YouTube&rsquo;s homepage is a timeline, whatever YouTube calls it.\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "I have decided to stay away from all the timelines for the next two weeks. Micro.blog. YouTube[^1]. Netflix. I am taking time off, in a way, from the discussions & chatters to give myself some space to think. It unfortunately isn't possible with views and perspectives from others always clouding mine.\r\n\r\nI have, of course, subscribed to the RSS feeds of many whose voices I prefer not to miss. This [old medium](https://www.amitgawande.com/2021/09/07/whys-there-a.html) remains the best way I can control what I read.\r\n\r\n[^1]: YouTube's homepage is a timeline, whatever YouTube calls it.\n",
+				"date_published": "2021-09-08T06:39:04+05:30",
+				"url": "https://www.amitgawande.com/2021/09/08/i-have-decided.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/07/whys-there-a.html",
+				
+				"content_html": "<p>Why’s there a fascination among the devs to <em>reinvent</em> the old tech that isn’t broken? Maybe the reason that the tech has stayed the same isn’t because no one attempted to change it. Can you fathom the possibility that the tech might be fine, as it is, to most common folks? Or perhaps it might not be one of those things that most give a hoot about? Yeah?</p>\n\n<p>The two prime examples I see many developers take a go at are browsers and email. Please, both work fine as they are. Don’t try to reinvent them. They have reached a state in which they are open and standard enough already. Most people know the functionality they can expect while using it.</p>\n\n<p>Stop reinventing it. Improve it, no doubt. Make it faster, simpler. Cleaner. But don’t <em>change</em> the definition of what that tech represents. Don’t mar the traits that make the tech great in the first place, universal accessibility.</p>\n\n<p>Don’t attach a lot of muck around the fundamentals of the accepted tech and call it “2.0”. I will suggest call it “1.0” of whatever the heck you want to name it.</p>\n",
+				"content_text": "Why’s there a fascination among the devs to _reinvent_ the old tech that isn’t broken? Maybe the reason that the tech has stayed the same isn’t because no one attempted to change it. Can you fathom the possibility that the tech might be fine, as it is, to most common folks? Or perhaps it might not be one of those things that most give a hoot about? Yeah?\n\nThe two prime examples I see many developers take a go at are browsers and email. Please, both work fine as they are. Don’t try to reinvent them. They have reached a state in which they are open and standard enough already. Most people know the functionality they can expect while using it. \n\nStop reinventing it. Improve it, no doubt. Make it faster, simpler. Cleaner. But don’t _change_ the definition of what that tech represents. Don’t mar the traits that make the tech great in the first place, universal accessibility.\n\nDon’t attach a lot of muck around the fundamentals of the accepted tech and call it “2.0”. I will suggest call it “1.0” of whatever the heck you want to name it.\n\n",
+				"date_published": "2021-09-07T17:41:38+05:30",
+				"url": "https://www.amitgawande.com/2021/09/07/whys-there-a.html",
+				"tags": ["Thoughts","Tech"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/07/if-you-were.html",
+				
+				"content_html": "<p>If you were to take a guess, when do you think the term “microblogging” was first coined? Another term that was gaining popularity the <a href=\"https://www.merriam-webster.com/time-traveler/2005\">same year</a> was “vodcast”. I am relieved it didn’t catch on — neither the term nor the media format.</p>\n",
+				"content_text": "If you were to take a guess, when do you think the term “microblogging” was first coined? Another term that was gaining popularity the [same year](https://www.merriam-webster.com/time-traveler/2005) was “vodcast”. I am relieved it didn’t catch on — neither the term nor the media format. \n\n",
+				"date_published": "2021-09-07T16:46:44+05:30",
+				"url": "https://www.amitgawande.com/2021/09/07/if-you-were.html",
+				"tags": ["Meta"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/06/i-spent-a.html",
+				
+				"content_html": "<p>I spent a few calming hours with my Kindle in the garden today. Away from the hustle bustle. Away from the tings and chimes of the technology. I need to do this often.</p>\n\n<p><img src=\"https://www.amitgawande.com/uploads/2021/a04cdafb87.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I spent a few calming hours with my Kindle in the garden today. Away from the hustle bustle. Away from the tings and chimes of the technology. I need to do this often.\n\n<img src=\"https://www.amitgawande.com/uploads/2021/a04cdafb87.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-09-06T22:01:25+05:30",
+				"url": "https://www.amitgawande.com/2021/09/06/i-spent-a.html",
+				"tags": ["Life","Photos"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/06/i-love-this.html",
+				
+				"content_html": "<p>I love this Indian Test cricket team that has the belief that they can bounce back from any situation. They have shown it a few times over the last couple of years. Today’s win against England, after conceding a lead, is special again 🏏</p>\n",
+				"content_text": "I love this Indian Test cricket team that has the belief that they can bounce back from any situation. They have shown it a few times over the last couple of years. Today’s win against England, after conceding a lead, is special again 🏏\n\n",
+				"date_published": "2021-09-06T21:50:03+05:30",
+				"url": "https://www.amitgawande.com/2021/09/06/i-love-this.html",
+				"tags": ["Sports"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/05/kids-are-free.html",
+				
+				"content_html": "<p>Kids are free, untouched by the necessities of the life. The concept of “necessary” doesn’t register itself with them.</p>\n\n<p>For a kid, everything is necessary and, at the same time, nothing is. Is it necessary to eat? Sure, if he is hungry. Otherwise, it isn’t.</p>\n\n<p>A kid does nothing because <em>it</em> is necessary to do it. He does it because <em>he</em> wants to do it.</p>\n\n<p>In that sense, a kid always emphasises inwards, focuses on what is important to himself. As we grow, we forgot what matters. We emphasise what’s external.</p>\n\n<p>The societal pressures. The fear of missing out. A kid knows none. <em>I like this</em> is all he cares about.</p>\n\n<p>Listen to the kid in you, he sits closest to your heart. And if you can’t hear him, life’s going to a difficult journey, my friend. Be quick and wake up that kid within you.</p>\n",
+				"content_text": "Kids are free, untouched by the necessities of the life. The concept of “necessary” doesn’t register itself with them. \n\nFor a kid, everything is necessary and, at the same time, nothing is. Is it necessary to eat? Sure, if he is hungry. Otherwise, it isn’t.\n\nA kid does nothing because _it_ is necessary to do it. He does it because _he_ wants to do it.\n\nIn that sense, a kid always emphasises inwards, focuses on what is important to himself. As we grow, we forgot what matters. We emphasise what’s external. \n\nThe societal pressures. The fear of missing out. A kid knows none. _I like this_ is all he cares about. \n\nListen to the kid in you, he sits closest to your heart. And if you can’t hear him, life’s going to a difficult journey, my friend. Be quick and wake up that kid within you.\n\n",
+				"date_published": "2021-09-05T23:43:23+05:30",
+				"url": "https://www.amitgawande.com/2021/09/05/kids-are-free.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/05/i-modified-my.html",
+				
+				"content_html": "<p>I modified my <a href=\"https://amitgawande.com\">homepage</a> today to group posts by date and sort in chronological order in the day. Why? I never liked the reverse-chronological order across.</p>\n",
+				"content_text": "I modified my [homepage](https://amitgawande.com) today to group posts by date and sort in chronological order in the day. Why? I never liked the reverse-chronological order across.\n",
+				"date_published": "2021-09-05T17:23:28+05:30",
+				"url": "https://www.amitgawande.com/2021/09/05/i-modified-my.html",
+				"tags": ["Meta"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/05/i-finished-reading.html",
+				
+				"content_html": "<p>I finished reading: <a href=\"https://micro.blog/books/9780393609394\">Astrophysics for People in a Hurry</a> by Neil deGrasse Tyson. In a way, it&rsquo;s a must read for a lot many people 📚</p>\n\n<p>I am certain it isn&rsquo;t for dummies neither does it claims to be so anywhere. It is for folks in a hurry, sure. I can&rsquo;t remember the last non-fiction book that read so easy for me. This feat is even more praiseworthy, given Neil deGrasse Tyson attempts to touch upon some of the most complicated and <i>buzz-wordy</i> topics from the past 13 billion of existence of this universe.</p>\n\n<p>&ldquo;The power and beauty of physical laws is that they apply everywhere, whether or not you choose to believe in them. In other words, after the laws of physics, everything else is opinion,&rdquo; says Tyson. I have rarely heard someone be so calm, yet extremely badass at the same time.</p>\n",
+				"content_text": "I finished reading: [Astrophysics for People in a Hurry](https://micro.blog/books/9780393609394) by Neil deGrasse Tyson. In a way, it's a must read for a lot many people 📚\r\n\r\nI am certain it isn't for dummies neither does it claims to be so anywhere. It is for folks in a hurry, sure. I can't remember the last non-fiction book that read so easy for me. This feat is even more praiseworthy, given Neil deGrasse Tyson attempts to touch upon some of the most complicated and <i>buzz-wordy</i> topics from the past 13 billion of existence of this universe. \r\n\r\n\"The power and beauty of physical laws is that they apply everywhere, whether or not you choose to believe in them. In other words, after the laws of physics, everything else is opinion,\" says Tyson. I have rarely heard someone be so calm, yet extremely badass at the same time. \n",
+				"date_published": "2021-09-05T15:30:06+05:30",
+				"url": "https://www.amitgawande.com/2021/09/05/i-finished-reading.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/05/theres-no-such.html",
+				
+				"content_html": "<blockquote>\n<p>There’s no such thing as writer’s block. There’s simply a fear of bad writing. Do enough bad writing and some good writing is bound to show up.</p>\n</blockquote>\n\n<p><a href=\"https://seths.blog/2021/09/write-something/\">Seth Godin suggests</a> just write something. <a href=\"https://essays.amitgawande.com/be-a-donkey/\">I agree with him</a>.</p>\n",
+				"content_text": "> There’s no such thing as writer’s block. There’s simply a fear of bad writing. Do enough bad writing and some good writing is bound to show up.\n\n[Seth Godin suggests](https://seths.blog/2021/09/write-something/) just write something. [I agree with him](https://essays.amitgawande.com/be-a-donkey/).\n\n",
+				"date_published": "2021-09-05T14:57:32+05:30",
+				"url": "https://www.amitgawande.com/2021/09/05/theres-no-such.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/05/whys-there-a.html",
+				
+				"content_html": "<p>Why’s there a sudden rise of alternatives for GoodReads being launched? And curiously, most are open sourced. What is the problem with the existing service — of course, besides the fact that it stays neglected by Amazon?</p>\n",
+				"content_text": "Why’s there a sudden rise of alternatives for GoodReads being launched? And curiously, most are open sourced. What is the problem with the existing service — of course, besides the fact that it stays neglected by Amazon?\n\n",
+				"date_published": "2021-09-05T14:46:44+05:30",
+				"url": "https://www.amitgawande.com/2021/09/05/whys-there-a.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/04/i-am-seriously.html",
+				
+				"content_html": "<p>I am seriously considering Dropbox for everything backup - PCs, Mac, Photos across all services. Because frankly speaking, no other cloud storage provider seems to be interested.</p>\n",
+				"content_text": "I am seriously considering Dropbox for everything backup - PCs, Mac, Photos across all services. Because frankly speaking, no other cloud storage provider seems to be interested.\n",
+				"date_published": "2021-09-04T22:36:57+05:30",
+				"url": "https://www.amitgawande.com/2021/09/04/i-am-seriously.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/04/why-do-i.html",
+				
+				"content_html": "<p>Why do I need to set the skin tone modifiers for every emoji separately? That does not sound right. Did no one think that I would have the same skin tone irrespective of the emotion I want to convey?</p>\n",
+				"content_text": "Why do I need to set the skin tone modifiers for every emoji separately? That does not sound right. Did no one think that I would have the same skin tone irrespective of the emotion I want to convey?\n\n",
+				"date_published": "2021-09-04T21:02:57+05:30",
+				"url": "https://www.amitgawande.com/2021/09/04/why-do-i.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/04/if-you-are.html",
+				
+				"content_html": "<p>If you are not fully vaccinated yet — well, <a href=\"https://www.mcsweeneys.net/articles/oh-my-fucking-god-get-the-fucking-vaccine-already-you-fucking-fucks\">McSweeney’s essay</a> is important for you — you need to search for a genuine reason for that. The only reason that’s genuine is that you physically can’t. Either there aren’t enough vaccines where you live, or you have some physical condition which limits you from getting the shot.</p>\n",
+				"content_text": "If you are not fully vaccinated yet — well, [McSweeney’s essay](https://www.mcsweeneys.net/articles/oh-my-fucking-god-get-the-fucking-vaccine-already-you-fucking-fucks) is important for you — you need to search for a genuine reason for that. The only reason that’s genuine is that you physically can’t. Either there aren’t enough vaccines where you live, or you have some physical condition which limits you from getting the shot.\n\n",
+				"date_published": "2021-09-04T20:54:15+05:30",
+				"url": "https://www.amitgawande.com/2021/09/04/if-you-are.html",
+				"tags": ["Thoughts","Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/09/03/i-always-wonder.html",
+				
+				"content_html": "<p>I always wonder what is the right response to people reaching out for guest posts. Most of the time I feel they are just fishing for attentions. So, ignore and mark them as spam? Or be patient, read and decline humbly? Or maybe inform them politely that you are marking them as spam, and then mark as spam.</p>\n\n<p>I am not the one to do the last option here. But I will get fed up someday and that will be my option.</p>\n",
+				"content_text": "I always wonder what is the right response to people reaching out for guest posts. Most of the time I feel they are just fishing for attentions. So, ignore and mark them as spam? Or be patient, read and decline humbly? Or maybe inform them politely that you are marking them as spam, and then mark as spam.\n\nI am not the one to do the last option here. But I will get fed up someday and that will be my option.\n\n",
+				"date_published": "2021-09-03T23:43:54+05:30",
+				"url": "https://www.amitgawande.com/2021/09/03/i-always-wonder.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://tales.micro.blog/2021/09/03/while-closing-a.html",
 				
 				"content_html": "<p>While closing a task in most of the task management systems, including to-do lists, you can set it to any of the available states. So, basically, you could say it is completed or fixed etc. There is one state in there that always tickles my funny bone, “won’t do”. I mean, that’s an official way of giving <a href=\"https://en.wikipedia.org/wiki/The_finger\">the middle finger</a>, isn’t it? Learn to mark issues with that state and you have found the best way to say <em>no</em>.</p>\n",
