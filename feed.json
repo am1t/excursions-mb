@@ -7,6 +7,146 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2021/10/14/not-really-proud.html",
+				
+				"content_html": "<p>Not really proud of this undertaking, but there&rsquo;s a reason. Bear with me. I will write a post soon.</p>\n\n<p><img src=\"uploads/2021/b4c3c6cc01.png\" width=\"600\" height=\"240\" alt=\"\" /></p>\n",
+				"content_text": "Not really proud of this undertaking, but there's a reason. Bear with me. I will write a post soon.\n\n<img src=\"uploads/2021/b4c3c6cc01.png\" width=\"600\" height=\"240\" alt=\"\" />\n",
+				"date_published": "2021-10-14T23:05:20+05:30",
+				"url": "https://www.amitgawande.com/2021/10/14/not-really-proud.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/14/lose-the-very.html",
+				
+				"content_html": "<p><a href=\"https://www.losethevery.com/\">Lose the Very</a> →</p>\n\n<blockquote>\n<p>Combine &ldquo;very&rdquo; with a simple adjective and get a more concise adjective</p>\n</blockquote>\n\n<p>A brilliant reference, the utility website does a single function, but does it well.</p>\n",
+				"content_text": "[Lose the Very](https://www.losethevery.com/) →\r\n\r\n> Combine \"very\" with a simple adjective and get a more concise adjective\r\n\r\nA brilliant reference, the utility website does a single function, but does it well.\n",
+				"date_published": "2021-10-14T19:43:51+05:30",
+				"url": "https://www.amitgawande.com/2021/10/14/lose-the-very.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/14/some-days-are.html",
+				
+				"content_html": "<p>Some days are just way more productive than what you are used it. Today&rsquo;s one such day. It dawned with a possibility that things would just go downhill &ndash; there were too many unaddressed tasks and open issues. But as it turns out, the evening feels a lot more peaceful.</p>\n",
+				"content_text": "Some days are just way more productive than what you are used it. Today's one such day. It dawned with a possibility that things would just go downhill -- there were too many unaddressed tasks and open issues. But as it turns out, the evening feels a lot more peaceful.\n",
+				"date_published": "2021-10-14T19:25:33+05:30",
+				"url": "https://www.amitgawande.com/2021/10/14/some-days-are.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/13/i-had-no.html",
+				
+				"content_html": "<p>I had no idea a Pizza can be cut in any other manner than what I&rsquo;m used to. <a href=\"https://www.chicagotribune.com/news/ct-xpm-2009-07-23-0907210194-story.html\">Apparently, yes</a>. A square slice of a Pizza, seriously? <em>H/T Chris Vannoy</em></p>\n",
+				"content_text": "I had no idea a Pizza can be cut in any other manner than what I'm used to. [Apparently, yes](https://www.chicagotribune.com/news/ct-xpm-2009-07-23-0907210194-story.html). A square slice of a Pizza, seriously? *H/T Chris Vannoy*\n",
+				"date_published": "2021-10-13T19:51:24+05:30",
+				"url": "https://www.amitgawande.com/2021/10/13/i-had-no.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/13/what-i-learned.html",
+				
+				"content_html": "<p><a href=\"https://link.medium.com/6OeyqZvRbkb\">What I Learned About My Writing By Seeing Only The Punctuation</a> →</p>\n\n<blockquote>\n<p>[W]hen you look at those writers’ punctuation, you can see, in a quick glance, how different they are.</p>\n</blockquote>\n",
+				"content_text": "[What I Learned About My Writing By Seeing Only The Punctuation](https://link.medium.com/6OeyqZvRbkb) →\r\n\r\n> [W]hen you look at those writers’ punctuation, you can see, in a quick glance, how different they are.\n",
+				"date_published": "2021-10-13T13:33:01+05:30",
+				"url": "https://www.amitgawande.com/2021/10/13/what-i-learned.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/13/reminder-to-self.html",
+				
+				"content_html": "<p>Reminder to self. Stop being too serious about what and where I post. Be aware, though.</p>\n",
+				"content_text": "Reminder to self. Stop being too serious about what and where I post. Be aware, though.\n",
+				"date_published": "2021-10-13T11:09:00+05:30",
+				"url": "https://www.amitgawande.com/2021/10/13/reminder-to-self.html",
+				"tags": ["Meta"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/12/of-course-i.html",
+				
+				"content_html": "<p>Of course, I <a href=\"http://oldschool.scripting.com/_am1t/\">am giving Drummer a try</a>. I have got the basics set up the way I like it. I know there are a hundred other things that I can do. But I want to understand how things work with Outliners first. The link blog based on Radio3 is a nice addition that I can use for sure.</p>\n",
+				"content_text": "Of course, I [am giving Drummer a try](http://oldschool.scripting.com/_am1t/). I have got the basics set up the way I like it. I know there are a hundred other things that I can do. But I want to understand how things work with Outliners first. The link blog based on Radio3 is a nice addition that I can use for sure.\n\n",
+				"date_published": "2021-10-12T21:59:01+05:30",
+				"url": "https://www.amitgawande.com/2021/10/12/of-course-i.html",
+				"tags": ["Meta"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/11/i-wanted-to.html",
+				
+				"content_html": "<p>I wanted to try Drummer. But I can&rsquo;t due to an error. It keeps saying &ldquo;the file name contains illegal characters&rdquo; every time I try to build the blog. I believe it has problems with the underscore and number in my <a href=\"https://twitter.com/_am1t\">Twitter handle</a>?</p>\n",
+				"content_text": "I wanted to try Drummer. But I can't due to an error. It keeps saying \"the file name contains illegal characters\" every time I try to build the blog. I believe it has problems with the underscore and number in my [Twitter handle](https://twitter.com/_am1t)?\n",
+				"date_published": "2021-10-11T21:44:51+05:30",
+				"url": "https://www.amitgawande.com/2021/10/11/i-wanted-to.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/11/my-daughter-premiered.html",
+				
+				"content_html": "<p>My daughter premiered <a href=\"https://youtu.be/AjTnWGJAvxE\">a new video</a> on her channel today. <a href=\"https://www.amitgawande.com/2021/10/03/when-my-daughter.html\">Her interest</a> in collecting facts and turning them into fun videos hasn’t dwindled a bit. Plus, she wants to try out new ways and settings now. This girl continues to impress and <em>inspire</em> me. Nice! 😊</p>\n\n<p><img src=\"https://www.amitgawande.com/uploads/2021/aa2c1f5dc2.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "My daughter premiered [a new video](https://youtu.be/AjTnWGJAvxE) on her channel today. [Her interest](https://www.amitgawande.com/2021/10/03/when-my-daughter.html) in collecting facts and turning them into fun videos hasn’t dwindled a bit. Plus, she wants to try out new ways and settings now. This girl continues to impress and _inspire_ me. Nice! 😊\n\n<img src=\"https://www.amitgawande.com/uploads/2021/aa2c1f5dc2.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2021-10-11T21:08:45+05:30",
+				"url": "https://www.amitgawande.com/2021/10/11/my-daughter-premiered.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/10/this-was-the.html",
+				
+				"content_html": "<p>This was the first Amazon Festive sale during which I didn’t buy anything. Nothing. I don’t even recognise this person anymore.</p>\n",
+				"content_text": "This was the first Amazon Festive sale during which I didn’t buy anything. Nothing. I don’t even recognise this person anymore.\n\n",
+				"date_published": "2021-10-10T23:15:01+05:30",
+				"url": "https://www.amitgawande.com/2021/10/10/this-was-the.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/09/would-you-call.html",
+				
+				"content_html": "<p>Would you call yourself an editor of your blog? I prefer the word writer.</p>\n",
+				"content_text": "Would you call yourself an editor of your blog? I prefer the word writer.\n\n",
+				"date_published": "2021-10-09T22:08:54+05:30",
+				"url": "https://www.amitgawande.com/2021/10/09/would-you-call.html",
+				"tags": ["Meta"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/09/luck-is-near.html",
+				
+				"content_html": "<p>“Luck is near you,” reads a drawing that my daughter made and gifted me. I’ve framed it and put it at my desk. I don’t know why she felt the need to write those words. But having such a thoughtful daughter makes me the luckiest dad out there.</p>\n",
+				"content_text": "“Luck is near you,” reads a drawing that my daughter made and gifted me. I’ve framed it and put it at my desk. I don’t know why she felt the need to write those words. But having such a thoughtful daughter makes me the luckiest dad out there.\n\n",
+				"date_published": "2021-10-09T21:15:32+05:30",
+				"url": "https://www.amitgawande.com/2021/10/09/luck-is-near.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/09/i-havent-watched.html",
+				
+				"content_html": "<p>I haven&rsquo;t watched Ted Lasso season 2 yet. I was waiting for all episodes to be available so that I can begin my episode a day routine and appreciate the story.</p>\n",
+				"content_text": "I haven't watched Ted Lasso season 2 yet. I was waiting for all episodes to be available so that I can begin my episode a day routine and appreciate the story.\n",
+				"date_published": "2021-10-09T09:17:44+05:30",
+				"url": "https://www.amitgawande.com/2021/10/09/i-havent-watched.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/08/why-do-i.html",
+				"title": "Why Do I Write?",
+				"content_html": "<p><em>Don’t write for others, write for yourself.</em> Most long-time writers give this advice to someone who is just getting started. Actually, screw that. Every person who does any amount (and form) of writing gives this advice to every other person who wishes to do some form of writing.</p>\n\n<p>Easy advice for others, but very difficult to follow oneself. To be frank, what does “not to write for others” even mean? Or write only for yourself?</p>\n\n<p>I write when my mind blanks out. I write when my mind gets crowded. Most of the time, I write as I comment on something I read or listened to. At times, a thought makes me go, &ldquo;Hmm, that&rsquo;s curious. I should write more about it.&rdquo; Occasionally, I write because I want to force myself to write.</p>\n\n<p>Writing something, anything, makes me focused. It calms me down. “I write because I have an innate need to write,” says Orhan Pamuk. More often than not, I share his sentiment.</p>\n\n<p>But I am not perfect. I also write because I want others to read my writing. Trigger a conversation. Read what others think about my thoughts. As an introvert, that’s my only way to open up to others. I don’t care how many people read what I write. As long as I know that some do.</p>\n\n<p>Numbers don’t matter to me. Conversations do.</p>\n\n<p>On a philosophical level, everybody understands this belief of “not writing for others”. Write what your mind wants you to write, don’t write what others want you to.</p>\n\n<blockquote>\n<p>You write because your thoughts are important. You write because you are brave and willing to expose those thoughts. But, most importantly, you write because you have something to say.</p>\n</blockquote>\n\n<p><a href=\"https://medium.com/live-your-life-on-purpose/why-do-we-write-89e56c069933\">A fascinating perspective</a>. It is worded succinctly, but it still is philosophical. Everybody has something to say. But not everybody writes. So, what motivates you to put your thoughts in words?</p>\n",
+				"content_text": "_Don’t write for others, write for yourself._ Most long-time writers give this advice to someone who is just getting started. Actually, screw that. Every person who does any amount (and form) of writing gives this advice to every other person who wishes to do some form of writing.\n\nEasy advice for others, but very difficult to follow oneself. To be frank, what does “not to write for others” even mean? Or write only for yourself?\n\nI write when my mind blanks out. I write when my mind gets crowded. Most of the time, I write as I comment on something I read or listened to. At times, a thought makes me go, \"Hmm, that's curious. I should write more about it.\" Occasionally, I write because I want to force myself to write. \n\nWriting something, anything, makes me focused. It calms me down. “I write because I have an innate need to write,” says Orhan Pamuk. More often than not, I share his sentiment.\n\nBut I am not perfect. I also write because I want others to read my writing. Trigger a conversation. Read what others think about my thoughts. As an introvert, that’s my only way to open up to others. I don’t care how many people read what I write. As long as I know that some do. \n\nNumbers don’t matter to me. Conversations do.\n\nOn a philosophical level, everybody understands this belief of “not writing for others”. Write what your mind wants you to write, don’t write what others want you to. \n\n> You write because your thoughts are important. You write because you are brave and willing to expose those thoughts. But, most importantly, you write because you have something to say.\n\n[A fascinating perspective](https://medium.com/live-your-life-on-purpose/why-do-we-write-89e56c069933). It is worded succinctly, but it still is philosophical. Everybody has something to say. But not everybody writes. So, what motivates you to put your thoughts in words?\n\n",
+				"date_published": "2021-10-08T23:10:51+05:30",
+				"url": "https://www.amitgawande.com/2021/10/08/why-do-i.html",
+				"tags": ["Essays","Meta"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/08/the-thing-with.html",
+				
+				"content_html": "<p>The thing with debugging issues is that sometimes, the systems just don&rsquo;t want to work. <a href=\"https://www.amitgawande.com/2021/10/08/i-absolutely-hate.html\">Especially late at night</a>. If it isn&rsquo;t a life or death sort of issue, just sleep over it.</p>\n",
+				"content_text": "The thing with debugging issues is that sometimes, the systems just don't want to work. [Especially late at night](https://www.amitgawande.com/2021/10/08/i-absolutely-hate.html). If it isn't a life or death sort of issue, just sleep over it.\n",
+				"date_published": "2021-10-08T10:27:26+05:30",
+				"url": "https://www.amitgawande.com/2021/10/08/the-thing-with.html",
+				"tags": ["Meta"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/08/i-absolutely-hate.html",
+				
+				"content_html": "<p>I absolutely hate it when I unsubscribe from a list (that some service has force-added me on) and they say &ldquo;we would love to be in touch&rdquo;. What the hell? Why should I? I find it difficult to do even with people, let alone a faceless email address. Yuck!😣</p>\n",
+				"content_text": "I absolutely hate it when I unsubscribe from a list (that some service has force-added me on) and they say \"we would love to be in touch\". What the hell? Why should I? I find it difficult to do even with people, let alone a faceless email address. Yuck!😣\n",
+				"date_published": "2021-10-08T08:05:39+05:30",
+				"url": "https://www.amitgawande.com/2021/10/08/i-absolutely-hate.html"
+			},
+			{
 				"id": "http://tales.micro.blog/2021/10/07/why-why-do.html",
 				
 				"content_html": "<p>Why? Why do I sign up for upgrading platforms late in the night? My sleep has been ruined a lot many times than what I am proud of. Sigh!</p>\n",
