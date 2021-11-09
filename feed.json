@@ -7,12 +7,107 @@
 	"items": [
 		
 			{
-				"id": "http://tales.micro.blog/2021/10/29/a-few-meta.html",
+				"id": "http://tales.micro.blog/2021/11/09/ive-been-in.html",
+				
+				"content_html": "<p>I&rsquo;ve been in festive mood since the last few days, away from all the systems I write from. I took the conscious decision to not carry any of my personal laptops or tablets I have gotten so used to. It&rsquo;s been suprisingly difficult for me to get into the writing zone.</p>\n",
+				"content_text": "I've been in festive mood since the last few days, away from all the systems I write from. I took the conscious decision to not carry any of my personal laptops or tablets I have gotten so used to. It's been suprisingly difficult for me to get into the writing zone.\n",
+				"date_published": "2021-11-09T12:34:41+05:30",
+				"url": "https://www.amitgawande.com/2021/11/09/ive-been-in.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2021/11/03/no-face-yet.html",
+				
+				"content_html": "<p>No face, yet conveys so many emotions. A pen stand I love! #stationerylove</p>\n\n<p><img src=\"uploads/2021/122ba19e0c.jpg\" width=\"600\" height=\"401\" alt=\"\" /></p>\n",
+				"content_text": "No face, yet conveys so many emotions. A pen stand I love! #stationerylove\n\n<img src=\"uploads/2021/122ba19e0c.jpg\" width=\"600\" height=\"401\" alt=\"\" />\n",
+				"date_published": "2021-11-03T07:13:00+05:30",
+				"url": "https://www.amitgawande.com/2021/11/03/no-face-yet.html",
+				"tags": ["Life","Photos"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/11/01/what-can-i.html",
+				
+				"content_html": "<p>What can I do with Alfred that I cannot do with Spotlight? There was a time when I used Alfred a lot. It got left behind when I switched to a new system. I haven&rsquo;t felt the need.</p>\n",
+				"content_text": "What can I do with Alfred that I cannot do with Spotlight? There was a time when I used Alfred a lot. It got left behind when I switched to a new system. I haven't felt the need.\n",
+				"date_published": "2021-11-01T19:34:12+05:30",
+				"url": "https://www.amitgawande.com/2021/11/01/what-can-i.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2021/11/01/the-most-brilliant.html",
+				
+				"content_html": "<p><a href=\"https://www.ft.com/content/42bb3a0f-ba18-4dc7-ae8a-570fd989cbfc\">The most brilliant bookshops in the world</a> →</p>\n\n<blockquote>\n<p>Perhaps most famous of all bookshops is Shakespeare and Company, the bohemian-spirited English-language booksellers situated moments from the Seine on Paris’s Left Bank.</p>\n</blockquote>\n\n<p>I love this one. And the one in Bangkok. And Rome!🙌</p>\n",
+				"content_text": "[The most brilliant bookshops in the world](https://www.ft.com/content/42bb3a0f-ba18-4dc7-ae8a-570fd989cbfc) →\r\n\r\n> Perhaps most famous of all bookshops is Shakespeare and Company, the bohemian-spirited English-language booksellers situated moments from the Seine on Paris’s Left Bank.\r\n\r\nI love this one. And the one in Bangkok. And Rome!🙌\n",
+				"date_published": "2021-11-01T10:56:17+05:30",
+				"url": "https://www.amitgawande.com/2021/11/01/the-most-brilliant.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/11/01/i-wish-i.html",
+				
+				"content_html": "<p>I wish I understood Halloween celebrations better. I see so many carved out Pumpkins, I wonder is carving and the decoration part of the tradition and celebrations. It must take months of planning to get things in place at the right time.</p>\n",
+				"content_text": "I wish I understood Halloween celebrations better. I see so many carved out Pumpkins, I wonder is carving and the decoration part of the tradition and celebrations. It must take months of planning to get things in place at the right time.\n",
+				"date_published": "2021-11-01T09:52:00+05:30",
+				"url": "https://www.amitgawande.com/2021/11/01/i-wish-i.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/11/01/halloween-isnt-celebrated.html",
+				
+				"content_html": "<p>Halloween isn&rsquo;t celebrated in India, I believed. So when a few kids came to my door trick-or-treating, I had no idea how to respond. The festivals are going international, I need to be better prepared. Happy Halloween all! 🎃</p>\n",
+				"content_text": "Halloween isn't celebrated in India, I believed. So when a few kids came to my door trick-or-treating, I had no idea how to respond. The festivals are going international, I need to be better prepared. Happy Halloween all! 🎃 \n",
+				"date_published": "2021-11-01T07:31:07+05:30",
+				"url": "https://www.amitgawande.com/2021/11/01/halloween-isnt-celebrated.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/31/on-a-regular.html",
+				
+				"content_html": "<p>On a regular Saturday morning this week, my daughter came to me with a topic and said that’s what I want to talk about. She had the whole script ready, with moments of jokes and all — so that’s what we record. A <a href=\"https://www.youtube.com/watch?v=CSZRXRmUcQk\">new video premiered</a> today!</p>\n\n<p><img src=\"uploads/2021/a6fb2a8a2d.jpg\" width=\"490\" height=\"276\" alt=\"\" /></p>\n",
+				"content_text": "On a regular Saturday morning this week, my daughter came to me with a topic and said that’s what I want to talk about. She had the whole script ready, with moments of jokes and all — so that’s what we record. A [new video premiered](https://www.youtube.com/watch?v=CSZRXRmUcQk) today!\n\n<img src=\"uploads/2021/a6fb2a8a2d.jpg\" width=\"490\" height=\"276\" alt=\"\" />\n\n",
+				"date_published": "2021-10-31T19:55:00+05:30",
+				"url": "https://www.amitgawande.com/2021/10/31/on-a-regular.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/29/thanks-to-microthreads.html",
+				
+				"content_html": "<p>Thanks to <a href=\"https://microthreads.herokuapp.com/discover/user\">Micro.Threads</a>, I discovered and followed a couple of folks that I thought I was already following. Fascinating how much the interactions in one&rsquo;s timeline can unearth!</p>\n",
+				"content_text": "Thanks to <a href=\"https://microthreads.herokuapp.com/discover/user\">Micro.Threads</a>, I discovered and followed a couple of folks that I thought I was already following. Fascinating how much the interactions in one's timeline can unearth!\n",
+				"date_published": "2021-10-29T21:39:07+05:30",
+				"url": "https://www.amitgawande.com/2021/10/29/thanks-to-microthreads.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/29/i-finished-reading.html",
+				
+				"content_html": "<p>I finished reading <a href=\"https://micro.blog/books/9780446670111\">Einstein&rsquo;s Dreams</a> by Alan Lightman today. This is a wonderful collection of thought experiments around our perception of time. The summary of the book says it&rsquo;s a collage of stories &ndash; but there aren&rsquo;t stories. With each &ldquo;story&rdquo;, the author <a href=\"https://www.goodreads.com/author/show/8933.Alan_Lightman\">Alan Lightman</a> instils a fascinating possibility for the concept of time being something uniquely different. What if everyone settles on their view of time? What if it is always in the past? Or always in the future? Or with just a day of life? It&rsquo;s a thought-provoking list.</p>\n\n<p>All these 30 dreams are poetic vignettes that paint the varied interpretations of time. They evoke emotions through vivid narration of people&rsquo;s lives in such a world and their surroundings. I paused after each chapter, pondering over the impact existence of such realities could have.</p>\n\n<p>At the surface, sure, these are just fictional stories. But dig deep, and you may be able to draw a parallel with realities of our world. With our perception of time. This is a beautifully written, short but profound read! ⭐️⭐️⭐️⭐️ 📚</p>\n",
+				"content_text": "I finished reading [Einstein's Dreams](https://micro.blog/books/9780446670111) by Alan Lightman today. This is a wonderful collection of thought experiments around our perception of time. The summary of the book says it's a collage of stories -- but there aren't stories. With each \"story\", the author [Alan Lightman](https://www.goodreads.com/author/show/8933.Alan_Lightman) instils a fascinating possibility for the concept of time being something uniquely different. What if everyone settles on their view of time? What if it is always in the past? Or always in the future? Or with just a day of life? It's a thought-provoking list.\n\nAll these 30 dreams are poetic vignettes that paint the varied interpretations of time. They evoke emotions through vivid narration of people's lives in such a world and their surroundings. I paused after each chapter, pondering over the impact existence of such realities could have.\n\nAt the surface, sure, these are just fictional stories. But dig deep, and you may be able to draw a parallel with realities of our world. With our perception of time. This is a beautifully written, short but profound read! ⭐️⭐️⭐️⭐️ 📚 \n\n",
+				"date_published": "2021-10-29T20:48:31+05:30",
+				"url": "https://www.amitgawande.com/2021/10/29/i-finished-reading.html",
+				"tags": ["Review","Books"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/29/loled-at-this.html",
+				
+				"content_html": "<p>Lol&rsquo;ed at <a href=\"https://twitter.com/mgsiegler/status/1453791866042814464\">this tweet by M.G. Siegler</a> →</p>\n\n<blockquote>\n<p>Breaking: NYT to acquire Metacritic, refocus site from movie review aggregation to critiquing Facebook.</p>\n</blockquote>\n",
+				"content_text": "Lol'ed at [this tweet by M.G. Siegler](https://twitter.com/mgsiegler/status/1453791866042814464) →\r\n\r\n> Breaking: NYT to acquire Metacritic, refocus site from movie review aggregation to critiquing Facebook.\n",
+				"date_published": "2021-10-29T14:53:48+05:30",
+				"url": "https://www.amitgawande.com/2021/10/29/loled-at-this.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/29/090219.html",
 				"title": "A Few Meta Quips",
 				"content_html": "<p>I call things that I can&rsquo;t put any name to as &ldquo;meta&rdquo;. I already have too many posts that are categorised as #meta. They have nothing to do with Facebook.</p>\n\n<p>Here&rsquo;s <a href=\"https://www.merriam-webster.com/dictionary/meta\">how Meta is defined</a> &ndash; all so apt for what Facebook is going for in varying degree.</p>\n\n<p>&ldquo;<i>showing or suggesting an explicit awareness of itself or oneself as a member of its category</i>&rdquo; - Lol! A good joke</p>\n\n<p>&ldquo;<i>cleverly self-referential</i>&rdquo; - a lot less clever, a lot more self-referential</p>\n\n<p>&ldquo;<i>concerning or providing information about members of its own category</i>&rdquo; - Information-shinformation, bruhh!</p>\n\n<p>So, what is it. Facebook has gone Meta? Meta has engulfed Facebook? Or Facebook <i>is</i> Meta now?</p>\n\n<p>The new name for Facebook is as vague as the future they plan with it.</p>\n",
 				"content_text": "I call things that I can't put any name to as \"meta\". I already have too many posts that are categorised as #meta. They have nothing to do with Facebook.\n\nHere's <a href=\"https://www.merriam-webster.com/dictionary/meta\">how Meta is defined</a> -- all so apt for what Facebook is going for in varying degree.\n\n\"<i>showing or suggesting an explicit awareness of itself or oneself as a member of its category</i>\" - Lol! A good joke\n\n\"<i>cleverly self-referential</i>\" - a lot less clever, a lot more self-referential\n\n\"<i>concerning or providing information about members of its own category</i>\" - Information-shinformation, bruhh!\n\nSo, what is it. Facebook has gone Meta? Meta has engulfed Facebook? Or Facebook <i>is</i> Meta now?\n\nThe new name for Facebook is as vague as the future they plan with it.\n",
 				"date_published": "2021-10-29T09:02:19+05:30",
-				"url": "https://www.amitgawande.com/2021/10/29/a-few-meta.html"
+				"url": "https://www.amitgawande.com/2021/10/29/090219.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2021/10/29/a-few-meta.html",
+				"title": "A Few Meta Quips",
+				"content_html": "<ol>\n<li><p>I call things that I can&rsquo;t put any name to as &ldquo;meta&rdquo;. I already have too many posts that are categorised as #meta. They have nothing to do with Facebook.</p></li>\n\n<li><p>Here&rsquo;s <a href=\"https://www.merriam-webster.com/dictionary/meta\">how Meta is defined</a> &ndash; all so apt for what Facebook is going for in varying degree.</p></li>\n</ol>\n\n<ul>\n<li><p>&ldquo;<i>showing or suggesting an explicit awareness of itself or oneself as a member of its category</i>&rdquo; - Lol! A good joke</p></li>\n\n<li><p>&ldquo;<i>cleverly self-referential</i>&rdquo; - a lot less clever, a lot more self-referential</p></li>\n\n<li><p>&ldquo;<i>concerning or providing information about members of its own category</i>&rdquo; - Information-shinformation, bruhh!</p></li>\n</ul>\n\n<ol>\n<li><p>So, what is it. Facebook has gone Meta? Meta has engulfed Facebook? Or Facebook <i>is</i> Meta now?</p></li>\n\n<li><p>The new name for Facebook is as vague as the future they plan with it.</p></li>\n</ol>\n",
+				"content_text": "1. I call things that I can't put any name to as \"meta\". I already have too many posts that are categorised as #meta. They have nothing to do with Facebook.\n\n2. Here's <a href=\"https://www.merriam-webster.com/dictionary/meta\">how Meta is defined</a> -- all so apt for what Facebook is going for in varying degree.\n\n- \"<i>showing or suggesting an explicit awareness of itself or oneself as a member of its category</i>\" - Lol! A good joke\n\n- \"<i>cleverly self-referential</i>\" - a lot less clever, a lot more self-referential\n\n- \"<i>concerning or providing information about members of its own category</i>\" - Information-shinformation, bruhh!\n\n3. So, what is it. Facebook has gone Meta? Meta has engulfed Facebook? Or Facebook <i>is</i> Meta now?\n\n4. The new name for Facebook is as vague as the future they plan with it.\n",
+				"date_published": "2021-10-29T09:02:00+05:30",
+				"url": "https://www.amitgawande.com/2021/10/29/a-few-meta.html",
+				"tags": ["Humour","Tech"]
 			},
 			{
 				"id": "http://tales.micro.blog/2021/10/28/when-i-published.html",
