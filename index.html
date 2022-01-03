@@ -24,6 +24,314 @@
 	
       <div class="h-entry">
 		
+			<h1><a href="https://www.amitgawande.com/2022/01/03/styling-newsletter-digests.html">Styling Newsletter Digests in Micro.blog</a></h1>
+		
+
+        <a href="https://www.amitgawande.com/2022/01/03/styling-newsletter-digests.html" class="u-url"><time class="dt-published" datetime="2022-01-03 22:38:00 &#43;0530">Jan 3, 2022</time></a>
+
+        <div class="e-content">
+         	<p>I recently changed the newsletter to a weekly digest instead of every long-form posts with Micro.blog. A fixed schedule is better for me than thinking about whether to include as part of the newsletter every time I post a post with a title. Until there is a better control (via categories) on what posts I can schedule for delivery, I want to avoid risking this particular setting.</p>
+
+<p>That said, I didn’t really like the way the first digest looked. It was… mhmm … messy. Maybe a bit more control over the elements, like title etc. would be good. Without that, to make the digest look slightly better, here’s the custom CSS that I have added currently.</p>
+
+<p class="post-note">You can apply this to your digest by including this CSS block to your custom CSS (‘Design’ ⇾ ‘Edit CSS’).</p>
+
+<pre><code>/* Set the font display */
+.microblog_email {
+  font-family: &quot;Avenir Next&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;
+  font-size: 16px;
+  line-height: 1.7em;
+}
+
+/* Move the header to the center */
+.microblog_email p:nth-of-type(1) {
+  text-align: center;
+  font-size: 40px;
+}
+
+/* Assign area and display for the images */
+.microblog_email img {
+  display: block;
+  max-width: 100%;	
+  height: auto;
+  margin: 0 auto 0.5rem;
+  vertical-align: middle;
+  border-radius: 5px;  	
+}
+
+/* Hide the profile image */
+.microblog_email p:first-child img {
+  display: none;
+}
+	
+/* Styling for the separator */
+.microblog_email hr {  
+  margin: 12px 0;
+  border: 0;
+  text-align: center;
+}
+
+.microblog_email hr:before {
+	content: &quot;\2022 \2022 \2022 \2022&quot;;
+    font-size: 20px;
+    color: #4F8BCA;
+}
+
+/* Styling the links */
+.microblog_email .microblog_permalink {
+    color: #0366d6;
+} 
+</code></pre>
+
+<p>I would like to avoid these <code>:nth-of-type</code> and <code>:first-child</code> blocks. But until the elements across the body are assigned classes, I will have to stay with this. Anyway, hope this helps. Or if there’s a better, simpler way to achieve this, I would love to hear.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2022/01/03/a-minor-styling.html" class="u-url"><time class="dt-published" datetime="2022-01-03 18:58:00 &#43;0530">Jan 3, 2022</time></a>
+
+        <div class="e-content">
+         	<p>A minor styling suggestion while using Posts Stats plugin with Marfa theme in dark mode. Add this snippet to custom CSS (‘Design’ -&gt; ‘Edit CSS’) to fix background of alternate rows in tables.</p>
+
+<pre><code>@media(prefers-color-scheme: dark) {
+	tr:nth-child(odd)&gt;td {
+	  background: initial;
+	}
+}
+</code></pre>
+
+<p><a href="https://github.com/am1t/plugin-post-stats/issues/4">Thanks to Andrew</a> for bringing this to my notice.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2022/01/02/defensive-css-by.html" class="u-url"><time class="dt-published" datetime="2022-01-02 23:09:43 &#43;0530">Jan 2, 2022</time></a>
+
+        <div class="e-content">
+         	<p><a href="https://ishadeed.com/article/defensive-css/">Defensive CSS by Ahmad Shadeed</a> →</p>
+
+<blockquote>
+<p>Defensive CSS is a collection of snippets that can help you in writing CSS that is protected. In other words, you will have fewer issues in the future.</p>
+</blockquote>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2022/01/02/a-good-friend.html" class="u-url"><time class="dt-published" datetime="2022-01-02 22:30:05 &#43;0530">Jan 2, 2022</time></a>
+
+        <div class="e-content">
+         	<p>A good friend who has gone indie had once suggested I should provide folks online an opportunity to support me when they benefit from my work. So, after <em>hesitantly</em> considering it for years, I finally decided to create a <a href="https://www.buymeacoffee.com/amitgawande">Buy me a coffee profile</a>. And include a link on my blog.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2022/01/02/the-case-against.html" class="u-url"><time class="dt-published" datetime="2022-01-02 19:34:31 &#43;0530">Jan 2, 2022</time></a>
+
+        <div class="e-content">
+         	<p><a href="https://www.stephendiehl.com/blog/against-crypto.html">The Case Against Crypto</a> →</p>
+
+<blockquote>
+<p>These days so much of my free time is booked with calls to explain to people outside the software industry why crypto assets are such a destructive force and why I support forceful regulation to halt this financially corrosive enterprise from spreading further into markets.</p>
+</blockquote>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2022/01/02/todays-posts-mark.html" class="u-url"><time class="dt-published" datetime="2022-01-02 18:46:02 &#43;0530">Jan 2, 2022</time></a>
+
+        <div class="e-content">
+         	<p>Today’s posts mark the completion of 30 days of daily posting on my blog. It wasn’t a planned challenge. But I wanted to attempt a routine, in public, of sorts. Prone to miss at least a day occasionally, a streak of any kind is always difficult for me. Plus, a good thing is that I didn’t have to schedule any posts just to make sure I don’t skip a day. I had written all the posts on the day they are visible on the blog. Well, in Indian Standard Time, that is. Even the long-form essays.</p>
+
+<p>With post-a-day done, can I take up another 30-day challenge? I always wanted to post at least a picture every day. But, I am not too much into photography. Or rather, I am not good at it. Plus the worsening environment outside with Omicron in the air, it becomes a tad more difficult to find different places every day. What else?</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2022/01/02/i-managed-to.html" class="u-url"><time class="dt-published" datetime="2022-01-02 17:53:45 &#43;0530">Jan 2, 2022</time></a>
+
+        <div class="e-content">
+         	<p>I managed to complete (and <em>crush</em>) the 2021 reading challenge, the third in a row — read 35 against the 24 targeted. It was a wonderful year in that sense. And I am challenging myself for more this year. 📚</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2022/01/01/i-have-been.html" class="u-url"><time class="dt-published" datetime="2022-01-01 20:50:34 &#43;0530">Jan 1, 2022</time></a>
+
+        <div class="e-content">
+         	<p>I have been searching for the next audiobook to listen to and am just not able to find one. The book that I want to read is not available on the Audible catalog. And the books that Amazon recommends are absolute shit. Sigh! The search continues. 📚</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2022/01/01/i-finished-reading.html" class="u-url"><time class="dt-published" datetime="2022-01-01 19:38:32 &#43;0530">Jan 1, 2022</time></a>
+
+        <div class="e-content">
+         	<p>I finished reading <a href="https://www.goodreads.com/book/show/16326.Death_in_the_Clouds">Death in the Clouds</a> by Agatha Christie today. I didn’t enjoy this Poirot adventure as I did his earlier ones. Sure, the plot, the mystery is interesting. But the way the story unfolds leaves me wanting for a lot more. It’s not a satisfying conclusion — too farfetched. Rushed. Maybe, I am done reading all the good Christie novels. 📚</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2022/01/01/i-welcomed-the.html" class="u-url"><time class="dt-published" datetime="2022-01-01 09:34:16 &#43;0530">Jan 1, 2022</time></a>
+
+        <div class="e-content">
+         	<p>I welcomed the first dawn of 2022 the same way as every dawn, a cup of tea with my wife. Every year, it&rsquo;s the same, but with lots of hopes and wishes for a wonderful year to follow. With a positive vibe in the air! So here&rsquo;s to another year of different sameness! 😊</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://www.amitgawande.com/2021/12/31/i-am-fortunate.html">Fortunate that I am writing this</a></h1>
+		
+
+        <a href="https://www.amitgawande.com/2021/12/31/i-am-fortunate.html" class="u-url"><time class="dt-published" datetime="2021-12-31 19:30:00 &#43;0530">Dec 31, 2021</time></a>
+
+        <div class="e-content">
+         	<p><img src="https://static.amitgawande.com/images/2021/resilience.jpg" alt="" /></p>
+
+<p>Since my niece was born on this day three years ago today, the new year celebrations have been quite unfamiliar for us. The whole world celebrates along with us as she grows a year old, every year. Or so we have convinced her and her parents. This year is no different, albeit a tad muted. But still, the folks all-around plan to celebrate.</p>
+
+<p>Knowing how all my plans for 2020 were mercilessly crushed by the pandemic, I had no expectations from 2021. I knew it was going to be more of the same dreadful cycle of panic, despair, and hope. At the same time, I also wished I and all my dear ones sail through, see the end of the year.</p>
+
+<p>As I sit here today, looking at the year gone by, all I can do is smile. It began with a phase as dark as my family had ever seen. But it brought us all close, gave us the courage to stay strong. We got back on our feet, stronger. We learned to live with the virus, masked whenever outside. Vaccinating ourselves. Slowly, gradually, we wandered, unhesitant, outside our homes. Each one of us established our own new rules, routines, and traditions around travel.</p>
+
+<p>We met our friends, got nostalgic for the days that we had left behind. We got hungry, got drunk and laughed our hearts out. I witness my office welcome my colleagues, the floors, and pantries reverberating with grumbles again.</p>
+
+<p>I am fortunate I could do all of that. And a lot more. That I watch my crazy friends share their plans for celebrations with booze and snacks. That I would watch the skies light up with fireworks one more time. I am fortunate that I am about to get ready and join my family to celebrate my niece growing older by another year.</p>
+
+<p>And if you are reading this, know that, in one way or the other, you are too. Just look back and find out why.</p>
+
+<p>Resilience. And <em>kismet</em>. The two words I would remember 2021 by. Wish you a happy new year, you all!</p>
+
+<hr />
+
+<p>Artwork by David Wirzba on Unsplash</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2021/12/30/it-has-been.html" class="u-url"><time class="dt-published" datetime="2021-12-30 23:22:30 &#43;0530">Dec 30, 2021</time></a>
+
+        <div class="e-content">
+         	<p>It has been the third day in a row today that I decided to sleep early, get back to routine and failed. I just can’t stop myself from doing what I am doing at my system. Until last week, I used to lay down onto my bed with my Kindle and was sound sleep at the same time every time. That hasn’t been the case for this part few days.</p>
+
+<p>I know what I need to do. I can’t make myself do it. Sure, I have my reasons why I am going late to bed. Nonetheless, I don’t like that a bit.</p>
+
+<p>Sleep routine is a flaky thing — disturb it ever so slightly, and it absolutely falls apart. And takes down the whole next day with it.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2021/12/29/i-decided-against.html" class="u-url"><time class="dt-published" datetime="2021-12-29 23:54:00 &#43;0530">Dec 29, 2021</time></a>
+
+        <div class="e-content">
+         	<p>I decided against <a href="https://www.amitgawande.com/2021/12/29/an-inner-monologue.html">replacing my theme</a> with something entirely new. I have too many custom components baked in currently that <a href="https://www.amitgawande.com/2021/09/09/interesting-but-i.html">I don’t have time</a> to replicate afresh. Plus, all the feedback from folks helped me convince myself that what I have is good enough.</p>
+
+<p>But, I have refreshed a few aspects in the existing theme. As advised by Khalid, I started with a typeface and replaced it with a serif one. It looks a lot bolder to me. A few clean-ups around accent colours. And a lot of moving stuff around.</p>
+
+<p>What I have, thus, is something that looks different, yet is the same. The journey is incomplete yet, there are many ugly corners that need clean-up. But I will get to those as time permits.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2021/12/29/an-inner-monologue.html" class="u-url"><time class="dt-published" datetime="2021-12-29 00:07:25 &#43;0530">Dec 29, 2021</time></a>
+
+        <div class="e-content">
+         	<p>An inner monologue around my site’s theme to follow. I have grown bored by looking at my current theme. Not that I don&rsquo;t like it, it just needs a reset. This has been how the site looks for a couple of years now. It looks so bland. Not playful. Not <em>personal</em>. There is no character.</p>
+
+<p>Over the year, I have added so much stuff to the theme. It does not, at all, resemble what I started with. It feels hacky all around. I have realised I can’t create anything polished, so I prefer not to build something totally custom. I prefer anything that comes ready-made. But that’s tricky as these are still early days for theming with Micro.blog. I like a couple, but neither is perfect. Shall I start with one and personalise in limit? Do I want to take the project up?</p>
+
+<p>I know, I know. “It is the words that matter and not what’s around.” &amp; “Make the content beautiful, not the container” &amp; blah blah.</p>
+
+<p>I get it. That’s the writer in me speaking. But <a href="https://www.amitgawande.com/2021/08/16/i-am-a.html">the developer in me</a> is craving for change. Can I hold him back?</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2021/12/28/oh-i-have.html" class="u-url"><time class="dt-published" datetime="2021-12-28 22:48:16 &#43;0530">Dec 28, 2021</time></a>
+
+        <div class="e-content">
+         	<p>Oh, I have a <a href="https://amit.omg.lol">profile on omg.lol</a>. To be frank, that&rsquo;s neither OMG, nor LOL. I did manage to not subscribe during all the giveaways. But I like the fun element. Always. So I had to. Also, I blame <a href="https://micro.blog/maique">@maique</a> 🙃</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2021/12/28/a-minor-upgrade.html" class="u-url"><time class="dt-published" datetime="2021-12-28 17:44:11 &#43;0530">Dec 28, 2021</time></a>
+
+        <div class="e-content">
+         	<p>A minor upgrade to the <a href="https://github.com/am1t/plugin-post-stats">Posts Stats plug-in</a> &ndash; the numbers are displayed with commas now, grouped on thousands. Without this, the larger numbers were annoying to watch. Anyway, that&rsquo;s that. <strong>PS:</strong> I still haven&rsquo;t found out a way to include config for disabling menu item.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2021/12/28/i-didnt-realize.html" class="u-url"><time class="dt-published" datetime="2021-12-28 10:30:40 &#43;0530">Dec 28, 2021</time></a>
+
+        <div class="e-content">
+         	<p>I didn&rsquo;t realize that the repository for <a href="https://microthreads.herokuapp.com/discover">Micro.Threads</a> was private till now. No idea why I kept it so. Well, I made it public today. You can check out the <a href="https://github.com/am1t/micro-threads">code on GitHub</a>, if interested.</p>
+
+<p>This small utility continues to help me every day to discover new conversations and users.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://www.amitgawande.com/2021/12/28/i-tried-to.html" class="u-url"><time class="dt-published" datetime="2021-12-28 00:29:16 &#43;0530">Dec 28, 2021</time></a>
+
+        <div class="e-content">
+         	<p>I tried to watch Red Notice today. I couldn&rsquo;t beyond an hour or so - it&rsquo;s such a terrible movie.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
 
         <a href="https://www.amitgawande.com/2021/12/27/i-like-to.html" class="u-url"><time class="dt-published" datetime="2021-12-27 00:45:44 &#43;0530">Dec 27, 2021</time></a>
 
