@@ -7,12 +7,56 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2022/04/06/at-times-i.html",
+				
+				"content_html": "<p>At times I feel everyone other than me is doing so much with their time while I sit here blank, staring at the screen. Not doing every thing that I should be doing. It sucks when this thought strikes.</p>\n",
+				"content_text": "At times I feel everyone other than me is doing so much with their time while I sit here blank, staring at the screen. Not doing every thing that I should be doing. It sucks when this thought strikes.\n",
+				"date_published": "2022-04-06T23:17:46+05:30",
+				"url": "https://www.amitgawande.com/2022/04/06/at-times-i.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2022/04/04/redacting-takes-time.html",
+				
+				"content_html": "<blockquote>\n<p>Redacting takes time. You can’t edit pictures by thinking; you have to do it by looking. The more pictures you have, the more you have to look.</p>\n</blockquote>\n<p>Source: <a href=\"https://www.newyorker.com/culture/culture-desk/your-camera-roll-contains-a-masterpiece\">Your Camera Roll Contains a Masterpiece | The New Yorker</a> →</p>\n",
+				"content_text": "> Redacting takes time. You can’t edit pictures by thinking; you have to do it by looking. The more pictures you have, the more you have to look.\r\n\r\nSource: [Your Camera Roll Contains a Masterpiece | The New Yorker](https://www.newyorker.com/culture/culture-desk/your-camera-roll-contains-a-masterpiece) →\n",
+				"date_published": "2022-04-04T21:37:00+05:30",
+				"url": "https://www.amitgawande.com/2022/04/04/redacting-takes-time.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/04/04/i-have-been.html",
+				
+				"content_html": "<p>I have been very keen on listening to Audiobooks recently. The moment I have some spare time, I am listening to the audiobooks. That does not bode well for my other interests. I also blame the brilliant collection of books I have been recommended🙃.</p>\n",
+				"content_text": "I have been very keen on listening to Audiobooks recently. The moment I have some spare time, I am listening to the audiobooks. That does not bode well for my other interests. I also blame the brilliant collection of books I have been recommended🙃.\n\n",
+				"date_published": "2022-04-04T20:27:34+05:30",
+				"url": "https://www.amitgawande.com/2022/04/04/i-have-been.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/03/31/dysons-headphones-blow.html",
+				
+				"content_html": "<p><a href=\"https://www.engadget.com/dyson-zone-headphones-mask-wearable-air-filtration-device-050027799.html\">Dyson&rsquo;s headphones blow filtered air at your face</a> →</p>\n<blockquote>\n<p>Dyson said it engineered the headset to fit comfortably and distribute weight evenly, by drawing inspiration from horse saddles.</p>\n</blockquote>\n<p>Seriously, WTF!</p>\n",
+				"content_text": "[Dyson's headphones blow filtered air at your face](https://www.engadget.com/dyson-zone-headphones-mask-wearable-air-filtration-device-050027799.html) →\n\n> Dyson said it engineered the headset to fit comfortably and distribute weight evenly, by drawing inspiration from horse saddles.\n\nSeriously, WTF!\n",
+				"date_published": "2022-03-31T09:03:44+05:30",
+				"url": "https://www.amitgawande.com/2022/03/31/dysons-headphones-blow.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/03/29/oneplus-is-promoting.html",
+				
+				"content_html": "<p>OnePlus is promoting their upcoming device with this tagline - &ldquo;our most advanced cooling system ever&rdquo;. That doesn&rsquo;t sound like a good strategy to me.</p>\n",
+				"content_text": "OnePlus is promoting their upcoming device with this tagline - \"our most advanced cooling system ever\". That doesn't sound like a good strategy to me. \n",
+				"date_published": "2022-03-29T14:14:22+05:30",
+				"url": "https://www.amitgawande.com/2022/03/29/oneplus-is-promoting.html"
+			},
+			{
 				"id": "http://tales.micro.blog/2022/03/28/when-there-are.html",
 				
-				"content_html": "<p>When there are too many things I want to write about, I can&rsquo;t publish any. I usually then take a pause, scribble a few words and save them as draft in Ulysses. The dashboard interface of Svbtle was pretty unique in that sence - <em>a flow of unpublished ideas</em> it was called. I wish the blogging platforms were bolder with Dashboard&rsquo;s designs.</p>\n",
-				"content_text": "When there are too many things I want to write about, I can't publish any. I usually then take a pause, scribble a few words and save them as draft in Ulysses. The dashboard interface of Svbtle was pretty unique in that sence - _a flow of unpublished ideas_ it was called. I wish the blogging platforms were bolder with Dashboard's designs.\n",
+				"content_html": "<p>When there are too many things I want to write about, I can&rsquo;t publish any. I usually then take a pause, scribble a few words and save them as draft in Ulysses. The dashboard interface of Svbtle was pretty unique in that sense - <em>a flow of unpublished ideas</em> it was called. I wish the blogging platforms were bolder with Dashboard&rsquo;s designs.</p>\n",
+				"content_text": "When there are too many things I want to write about, I can't publish any. I usually then take a pause, scribble a few words and save them as draft in Ulysses. The dashboard interface of Svbtle was pretty unique in that sense - _a flow of unpublished ideas_ it was called. I wish the blogging platforms were bolder with Dashboard's designs.\n",
 				"date_published": "2022-03-28T22:17:25+05:30",
-				"url": "https://www.amitgawande.com/2022/03/28/when-there-are.html"
+				"url": "https://www.amitgawande.com/2022/03/28/when-there-are.html",
+				"tags": ["Meta"]
 			},
 			{
 				"id": "http://tales.micro.blog/2022/03/28/at-times-wordle.html",
