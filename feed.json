@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2022/04/14/my-daughter-has.html",
+				
+				"content_html": "<p>My daughter has reached an age now where she lip syncs to songs, mostly pop, in front of the mirror. Of course, using the comb as a mic. Sigh! It’s going to be tricky to keep up.</p>\n",
+				"content_text": "My daughter has reached an age now where she lip syncs to songs, mostly pop, in front of the mirror. Of course, using the comb as a mic. Sigh! It’s going to be tricky to keep up.\n\n",
+				"date_published": "2022-04-14T09:43:19+05:30",
+				"url": "https://www.amitgawande.com/2022/04/14/my-daughter-has.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/04/10/apple-needs-to.html",
+				
+				"content_html": "<p>Apple needs to launch a TV+ app for Android. They have one for music. So I can&rsquo;t understand why they won&rsquo;t launch one for their TV offerings too. It&rsquo;s such a pain to watch their shows and movies on a non-Apple mobile device. And I won&rsquo;t buy an Apple device just for TV.</p>\n",
+				"content_text": "Apple needs to launch a TV+ app for Android. They have one for music. So I can't understand why they won't launch one for their TV offerings too. It's such a pain to watch their shows and movies on a non-Apple mobile device. And I won't buy an Apple device just for TV. \n",
+				"date_published": "2022-04-10T09:24:55+05:30",
+				"url": "https://www.amitgawande.com/2022/04/10/apple-needs-to.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://tales.micro.blog/2022/04/06/at-times-i.html",
 				
-				"content_html": "<p>At times I feel everyone other than me is doing so much with their time while I sit here blank, staring at the screen. Not doing every thing that I should be doing. It sucks when this thought strikes.</p>\n",
-				"content_text": "At times I feel everyone other than me is doing so much with their time while I sit here blank, staring at the screen. Not doing every thing that I should be doing. It sucks when this thought strikes.\n",
+				"content_html": "<p>At times I feel everyone other than me is doing so much with their time while I sit here blank, staring at the screen. Not doing any thing that I should be doing. It sucks when this thought strikes.</p>\n",
+				"content_text": "At times I feel everyone other than me is doing so much with their time while I sit here blank, staring at the screen. Not doing any thing that I should be doing. It sucks when this thought strikes.\n",
 				"date_published": "2022-04-06T23:17:46+05:30",
 				"url": "https://www.amitgawande.com/2022/04/06/at-times-i.html"
 			},
