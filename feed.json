@@ -7,6 +7,85 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2022/06/07/excitement-anticipation-nervousness.html",
+				
+				"content_html": "<p>Excitement. Anticipation. Nervousness. A new job triggers all these within me, even after 15 years of knowing what it entails. Yesterday was one such day. I am looking forward to the next few days, months of a lot of expected and unexpected newness. A new role. A new phase.</p>\n",
+				"content_text": "Excitement. Anticipation. Nervousness. A new job triggers all these within me, even after 15 years of knowing what it entails. Yesterday was one such day. I am looking forward to the next few days, months of a lot of expected and unexpected newness. A new role. A new phase.\n",
+				"date_published": "2022-06-07T21:44:33+05:30",
+				"url": "https://www.amitgawande.com/2022/06/07/excitement-anticipation-nervousness.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/06/06/just-doing-it.html",
+				
+				"content_html": "<blockquote>\n<p>[J]ust doing it once today is ultimately the only way to become “the kind of person” who does that sort of thing on a regular basis anyway. Otherwise (and believe me, I’ve been there) you’re merely the kind of person who spends your life drawing up plans and schemes for how you’re going to become a different kind of person at some point in the future which never quite arrives.</p>\n</blockquote>\n<p><a href=\"https://ckarchive.com/b/xmuph6hr8qgv6\">Against good habits</a> →</p>\n<p>This whole essay hit close to home  &ndash; I needed this reminder.</p>\n",
+				"content_text": "> [J]ust doing it once today is ultimately the only way to become “the kind of person” who does that sort of thing on a regular basis anyway. Otherwise (and believe me, I’ve been there) you’re merely the kind of person who spends your life drawing up plans and schemes for how you’re going to become a different kind of person at some point in the future which never quite arrives.\r\n\r\n[Against good habits](https://ckarchive.com/b/xmuph6hr8qgv6) →\r\n\r\nThis whole essay hit close to home  -- I needed this reminder.\n",
+				"date_published": "2022-06-06T10:43:15+05:30",
+				"url": "https://www.amitgawande.com/2022/06/06/just-doing-it.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/06/02/the-only-linux.html",
+				
+				"content_html": "<blockquote>\n<p>The only [linux] cheat sheet you need - Unified access to the best community-driven documentation repositories of the world</p>\n</blockquote>\n<p>Source: <a href=\"http://cht.sh/\">cheat.sh</a>. Brilliant - look at the demo <a href=\"https://github.com/chubin/cheat.sh#features\">available in the repo</a>.</p>\n",
+				"content_text": "> The only [linux] cheat sheet you need - Unified access to the best community-driven documentation repositories of the world \r\n\r\nSource: [cheat.sh](http://cht.sh/). Brilliant - look at the demo [available in the repo](https://github.com/chubin/cheat.sh#features).\n",
+				"date_published": "2022-06-02T23:17:28+05:30",
+				"url": "https://www.amitgawande.com/2022/06/02/the-only-linux.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2022/06/01/people-almost-invariably.html",
+				
+				"content_html": "<blockquote>\n<p>People almost invariably don’t want to hurt other people and feel bad when they do. The fact that we can feel a lack of respect or kindness in a given social situation is evidence that those good qualities are the water we normally swim in.</p>\n</blockquote>\n<p>Source: <a href=\"https://www.raptitude.com/2022/05/cynicism-is-boring/\">Cynicism is Boring</a> →</p>\n",
+				"content_text": "> People almost invariably don’t want to hurt other people and feel bad when they do. The fact that we can feel a lack of respect or kindness in a given social situation is evidence that those good qualities are the water we normally swim in.\r\n\r\nSource: [Cynicism is Boring](https://www.raptitude.com/2022/05/cynicism-is-boring/) →\n",
+				"date_published": "2022-06-01T10:22:01+05:30",
+				"url": "https://www.amitgawande.com/2022/06/01/people-almost-invariably.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/05/31/i-love-what.html",
+				
+				"content_html": "<p>I love what Grammarly can do &ndash; but boy, its Premium tier is costly. Ironically, every time it corrects me, I want to pay for the service. But then I see how much it costs &amp; I can&rsquo;t convince myself that I need it enough. I tried LanguageTool for a year, but reconsidering now.</p>\n",
+				"content_text": "I love what Grammarly can do -- but boy, its Premium tier is costly. Ironically, every time it corrects me, I want to pay for the service. But then I see how much it costs & I can't convince myself that I need it enough. I tried LanguageTool for a year, but reconsidering now.\n",
+				"date_published": "2022-05-31T20:20:13+05:30",
+				"url": "https://www.amitgawande.com/2022/05/31/i-love-what.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2022/05/31/i-am-tired.html",
+				
+				"content_html": "<p>I am tired of even the simple utility apps going for subscription model instead of right out one-time purchases. Make the app a paid app &ndash; sure make it costlier than the subscription cost. Don&rsquo;t say it&rsquo;s free and present &ldquo;Subscribe&rdquo; button first thing when your user opens the app.</p>\n<p>I understand, as a developer subscriptions are tempting. But please, respect your users. Or else you lose them.</p>\n<p>I want to support the developers, but am fatigued. Subscriptions are costly. Now, I subscribe for service. And I pay for app. I am doing nothing else any more.</p>\n",
+				"content_text": "I am tired of even the simple utility apps going for subscription model instead of right out one-time purchases. Make the app a paid app -- sure make it costlier than the subscription cost. Don't say it's free and present \"Subscribe\" button first thing when your user opens the app. \n\nI understand, as a developer subscriptions are tempting. But please, respect your users. Or else you lose them.\n\nI want to support the developers, but am fatigued. Subscriptions are costly. Now, I subscribe for service. And I pay for app. I am doing nothing else any more.\n",
+				"date_published": "2022-05-31T17:23:58+05:30",
+				"url": "https://www.amitgawande.com/2022/05/31/i-am-tired.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/05/31/when-writing-and.html",
+				
+				"content_html": "<blockquote>\n<p>When writing, and also when doing research for writing, it’s important to get the details right, but that doesn’t always mean what you might think. Economy of detail is usually better than excess, which raises the critical question about which details matter most.</p>\n</blockquote>\n<p>An insightful read this, <a href=\"https://mattgemmell.com/verisimilitude/\">Verisimilitude by Matt Gemmell</a>. I found this suggestion really on the mark.</p>\n<blockquote>\n<p>Research is a distillation. You’ll spend two hours reading, to get four paragraphs of notes, which provide eight words of story — but those eight words will take the reader into the world you’ve created, and create the impression that your character really is there, or really knows about this topic. Just make sure it’s either unremarkable that they would know those things, or that their knowledge has been explicitly accounted for.</p>\n</blockquote>\n<p>While writing short stories that I based on some amount of research, I myself have struggled at times to know how much is enough. This was a good reminder from Matt.</p>\n",
+				"content_text": "> When writing, and also when doing research for writing, it’s important to get the details right, but that doesn’t always mean what you might think. Economy of detail is usually better than excess, which raises the critical question about which details matter most.\r\n\r\nAn insightful read this, [Verisimilitude by Matt Gemmell](https://mattgemmell.com/verisimilitude/). I found this suggestion really on the mark.\r\n\r\n> Research is a distillation. You’ll spend two hours reading, to get four paragraphs of notes, which provide eight words of story — but those eight words will take the reader into the world you’ve created, and create the impression that your character really is there, or really knows about this topic. Just make sure it’s either unremarkable that they would know those things, or that their knowledge has been explicitly accounted for. \r\n\r\nWhile writing short stories that I based on some amount of research, I myself have struggled at times to know how much is enough. This was a good reminder from Matt.\n",
+				"date_published": "2022-05-31T16:25:27+05:30",
+				"url": "https://www.amitgawande.com/2022/05/31/when-writing-and.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/05/31/every-now-and.html",
+				
+				"content_html": "<p>Every now and then, there&rsquo;s an XKCD comic which I can make no sense of. Today&rsquo;s (or <a href=\"https://xkcd.com/2626/\">XKCD 2626</a>) was such. I am not that smart you see 😄</p>\n",
+				"content_text": "Every now and then, there's an XKCD comic which I can make no sense of. Today's (or [XKCD 2626](https://xkcd.com/2626/)) was such. I am not that smart you see 😄\n",
+				"date_published": "2022-05-31T15:31:31+05:30",
+				"url": "https://www.amitgawande.com/2022/05/31/every-now-and.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/05/31/to-be-lonely.html",
+				
+				"content_html": "<blockquote>\n<p>To be lonely, then, is to desire an absent want. It is to feel an emptiness that remains unsatisfied — to feel isolated, in need, or abandoned, but with no one to help. Yet solitude is another thing altogether. To be solitary is to retreat into yourself, and to take great pleasure in your own company.</p>\n</blockquote>\n<p>Source: <a href=\"https://bigthink.com/thinking/loneliness-is-not-solitude-so-whats-the-difference/\">Solitude is not loneliness. Here&rsquo;s the key philosophical difference.</a> →</p>\n",
+				"content_text": "> To be lonely, then, is to desire an absent want. It is to feel an emptiness that remains unsatisfied — to feel isolated, in need, or abandoned, but with no one to help. Yet solitude is another thing altogether. To be solitary is to retreat into yourself, and to take great pleasure in your own company.\r\n\r\nSource: [Solitude is not loneliness. Here's the key philosophical difference.](https://bigthink.com/thinking/loneliness-is-not-solitude-so-whats-the-difference/) →\n",
+				"date_published": "2022-05-31T12:13:37+05:30",
+				"url": "https://www.amitgawande.com/2022/05/31/to-be-lonely.html",
+				"tags": ["Links"]
+			},
+			{
 				"id": "http://tales.micro.blog/2022/05/30/i-have-replaced.html",
 				
 				"content_html": "<p>I have replaced Windows on my laptop today with Linux &ndash; basically, I installed the Lubuntu distro. But that was only because I had a bootable drive ready with Lubuntu. As I then checked for the updates on the distro, I realized so much has changed again. There are many new distros available now that I hadn&rsquo;t even heard about earlier.</p>\n<p>Anyway, the standard, famous ones continue to stay. One that caught my eye was Zorin OS. Looks nice, plus is based on Ubuntu.</p>\n",
