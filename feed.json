@@ -7,6 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2022/07/27/i-have-been.html",
+				
+				"content_html": "<p>I have been under the weather for the last few days. I rested for the first couple of days and got much-needed sleep at unusual times. But the recovery period gave me a chance to read a few books after a long time. I slept and I read. A nice break I must say.</p>\n",
+				"content_text": "I have been under the weather for the last few days. I rested for the first couple of days and got much-needed sleep at unusual times. But the recovery period gave me a chance to read a few books after a long time. I slept and I read. A nice break I must say.\n",
+				"date_published": "2022-07-27T18:32:54+05:30",
+				"url": "https://www.amitgawande.com/2022/07/27/i-have-been.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2022/07/24/i-have-been.html",
+				
+				"content_html": "<p>I have been a PC guy since I was 10 years old. The first version that I used was Windows 95. I stayed the longest with Windows 98. I fell in love with Windows XP even on my PC hardware that didn&rsquo;t support the OS well then.</p>\n<p>However, what I had for this platform wasn&rsquo;t love. For the small town I am from, Windows was the default platform. At home, in school and at work. Mac OS wasn&rsquo;t a name anyone had heard. Linux was limited to textbooks.</p>\n<p>I dabbled with the latter during my bachelor&rsquo;s and the developer in me was instantly captivated. It wasn&rsquo;t ready to replace the default OS on my desktop though. There was still some time to go before it could go mainstream. So like most folks around me, I dual-booted Windows and Linux.</p>\n<p>However, I believe things have improved since then. There are many &ldquo;flavours&rdquo; of Linux today that target users beyond developers. Why not then should I give them a try again?</p>\n<p>So I <a href=\"https://www.amitgawande.com/2022/05/30/i-have-replaced.html\">have been running Linux</a> as my primary OS for more than a few months now. I haven&rsquo;t missed my default platform yet. It may not still be ready for all the people that Microsoft targets with Windows. But it is ready to be the default platform for many tech-minded folks out there.</p>\n<p>I am not going back to Windows anymore. I don&rsquo;t have any incentive,</p>\n<p>PS: I am trying <a href=\"https://www.msn.com/en-us/news/technology/google-chrome-os-flex-what-it-is-and-why-you-should-use-it/ar-AAZrwUy\">Chrome OS Flex</a> currently. I am pretty impressed with this flavour of an operating system. It&rsquo;s light and fast. Plus it also runs Linux now. Except for the fear of Google, this platform has a lot going for it.</p>\n",
+				"content_text": "I have been a PC guy since I was 10 years old. The first version that I used was Windows 95. I stayed the longest with Windows 98. I fell in love with Windows XP even on my PC hardware that didn't support the OS well then.\n\nHowever, what I had for this platform wasn't love. For the small town I am from, Windows was the default platform. At home, in school and at work. Mac OS wasn't a name anyone had heard. Linux was limited to textbooks. \n\nI dabbled with the latter during my bachelor's and the developer in me was instantly captivated. It wasn't ready to replace the default OS on my desktop though. There was still some time to go before it could go mainstream. So like most folks around me, I dual-booted Windows and Linux.\n\nHowever, I believe things have improved since then. There are many \"flavours\" of Linux today that target users beyond developers. Why not then should I give them a try again?\n\nSo I [have been running Linux](https://www.amitgawande.com/2022/05/30/i-have-replaced.html) as my primary OS for more than a few months now. I haven't missed my default platform yet. It may not still be ready for all the people that Microsoft targets with Windows. But it is ready to be the default platform for many tech-minded folks out there.\n\nI am not going back to Windows anymore. I don't have any incentive,\n\nPS: I am trying [Chrome OS Flex](https://www.msn.com/en-us/news/technology/google-chrome-os-flex-what-it-is-and-why-you-should-use-it/ar-AAZrwUy) currently. I am pretty impressed with this flavour of an operating system. It's light and fast. Plus it also runs Linux now. Except for the fear of Google, this platform has a lot going for it.\n",
+				"date_published": "2022-07-25T19:14:22+05:30",
+				"url": "https://www.amitgawande.com/2022/07/24/i-have-been.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/07/24/an-unpopular-opinion.html",
+				
+				"content_html": "<p>An unpopular opinion, but I need not post everything on my blog. Some fleeting thoughts are better if not considered as part of the words &ldquo;published&rdquo;.</p>\n",
+				"content_text": "An unpopular opinion, but I need not post everything on my blog. Some fleeting thoughts are better if not considered as part of the words \"published\".\n",
+				"date_published": "2022-07-24T13:58:30+05:30",
+				"url": "https://www.amitgawande.com/2022/07/24/an-unpopular-opinion.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2022/07/23/you-have-to.html",
+				
+				"content_html": "<blockquote>\n<p>You have to leverage the mind’s habitual and reflexive nature. Instead of consciously “trying to be more present,” you gently train your own attention, like you’re training a dog, to locate and be with present moment experience as a normal and natural reflex.</p>\n</blockquote>\n<p>Source: <a href=\"https://www.raptitude.com/2022/07/trying-to-be-more-present-isnt-enough/\">Trying to Be More Present Isn’t Enough</a> →</p>\n",
+				"content_text": "> You have to leverage the mind’s habitual and reflexive nature. Instead of consciously “trying to be more present,” you gently train your own attention, like you’re training a dog, to locate and be with present moment experience as a normal and natural reflex.\r\n\r\nSource: [Trying to Be More Present Isn’t Enough](https://www.raptitude.com/2022/07/trying-to-be-more-present-isnt-enough/) →\n",
+				"date_published": "2022-07-23T11:12:29+05:30",
+				"url": "https://www.amitgawande.com/2022/07/23/you-have-to.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/07/23/a-social-network.html",
+				
+				"content_html": "<p>A social network or a community dies when the interactions dry down. When everyone speaks but there is no dialogue. Soon everyone is shouting at the top of their voices.</p>\n",
+				"content_text": "A social network or a community dies when the interactions dry down. When everyone speaks but there is no dialogue. Soon everyone is shouting at the top of their voices.\n",
+				"date_published": "2022-07-23T10:00:27+05:30",
+				"url": "https://www.amitgawande.com/2022/07/23/a-social-network.html"
+			},
+			{
 				"id": "http://tales.micro.blog/2022/07/21/i-find-and.html",
 				
 				"content_html": "<p>I find and read a lot of brilliant articles/essays throughout the day. Most are shareworthy which I freely do. But I have realised too much reading is unfavourable for my writing. The mind gets inundated with others' thoughts. I tend to first be affected by them, then overanalyze them and soon get paralysed by them. It&rsquo;s not a healthy chain of events.</p>\n<p>I am reading a lot more than I am writing. I haven&rsquo;t made up my mind yet that it is bad. But I need to balance them both.</p>\n<p><em>Garbage in, garbage out</em>. Sure. But <em>only in, nothing out</em> is equally bad &ndash; doesn&rsquo;t matter that it&rsquo;s only the best that goes in.</p>\n",
