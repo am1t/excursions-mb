@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2022/08/12/i-finished-reading.html",
+				
+				"content_html": "<p>I finished reading <a href=\"https://www.goodreads.com/book/show/60627309-a-view-to-die-for\">A View to Die For</a> by Cheri Baker 📚</p>\n<p>I really enjoyed this one. Paul Gumbs, the central character, comes out as a natural hero. The mystery is breezy and never slows down unnecessarily. I am involved in Butterfly Island and the characters living there enough that I&rsquo;ll no doubt pick up the next one in the series.</p>\n",
+				"content_text": "I finished reading [A View to Die For](https://www.goodreads.com/book/show/60627309-a-view-to-die-for) by Cheri Baker 📚\r\n\r\nI really enjoyed this one. Paul Gumbs, the central character, comes out as a natural hero. The mystery is breezy and never slows down unnecessarily. I am involved in Butterfly Island and the characters living there enough that I'll no doubt pick up the next one in the series.\n",
+				"date_published": "2022-08-12T18:14:50+05:30",
+				"url": "https://www.amitgawande.com/2022/08/12/i-finished-reading.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/08/11/it-was-relaxing.html",
+				
+				"content_html": "<p>It was relaxing to watch the calm river stream as I sat next to a shack. A cup of steaming hot tea in my hand.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It was relaxing to watch the calm river stream as I sat next to a shack. A cup of steaming hot tea in my hand.\n\n<img src=\"uploads/2022/a4ee0091f7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-08-11T13:17:10+05:30",
+				"url": "https://www.amitgawande.com/2022/08/11/it-was-relaxing.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/08/10/a-place-to.html",
+				
+				"content_html": "<blockquote>\n<p>A place to discover books in new and exciting ways. Read the first page without judging the cover. If you&rsquo;re hooked, click the reveal button to find out more.</p>\n</blockquote>\n<p>Source: <a href=\"https://recommendmeabook.com\">Recommend Me a Book</a> →</p>\n",
+				"content_text": "> A place to discover books in new and exciting ways. Read the first page without judging the cover. If you're hooked, click the reveal button to find out more.\r\n\r\nSource: [Recommend Me a Book](https://recommendmeabook.com) →\n",
+				"date_published": "2022-08-10T21:08:49+05:30",
+				"url": "https://www.amitgawande.com/2022/08/10/a-place-to.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/08/10/i-am-not.html",
+				
+				"content_html": "<p>I am not a horror movie fan. I have seen a few over the years but do not enjoy them. With age, my patience with them has further gone down. I do not watch this genre at all anymore. Or so I thought.</p>\n<p>I was recently reminded of my dislike as I read <a href=\"https://editorial.rottentomatoes.com/guide/best-horror-movies-of-all-time/\">this list</a> from the editors at Rotten Tomatoes. I realized that there <em>are</em> few movies in this genre that I have enjoyed. Or I do still enjoy. The likes of The Mist or Jaws Or The Shining. Or the number one on the list, Psycho. Or the one I thoroughly enjoyed recently - Get Out.</p>\n<p>Basically, I don&rsquo;t mind psychological thrillers. Or ones with creatures. But I am done watching haunted houses and ghosts and unnecessary gore.</p>\n<p>That said, I do enjoy reading the plots of the movies, predominantly from the horror genre, that I have no interest in. I have read so many movie plots on Wikipedia. I was anyway not going to watch the movie. By reading the plot, I at least know that the one twist the movie was sold on is shit.</p>\n",
+				"content_text": "I am not a horror movie fan. I have seen a few over the years but do not enjoy them. With age, my patience with them has further gone down. I do not watch this genre at all anymore. Or so I thought.\n\nI was recently reminded of my dislike as I read [this list](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-all-time/) from the editors at Rotten Tomatoes. I realized that there *are* few movies in this genre that I have enjoyed. Or I do still enjoy. The likes of The Mist or Jaws Or The Shining. Or the number one on the list, Psycho. Or the one I thoroughly enjoyed recently - Get Out.\n\nBasically, I don't mind psychological thrillers. Or ones with creatures. But I am done watching haunted houses and ghosts and unnecessary gore.\n\nThat said, I do enjoy reading the plots of the movies, predominantly from the horror genre, that I have no interest in. I have read so many movie plots on Wikipedia. I was anyway not going to watch the movie. By reading the plot, I at least know that the one twist the movie was sold on is shit.\n",
+				"date_published": "2022-08-10T18:54:05+05:30",
+				"url": "https://www.amitgawande.com/2022/08/10/i-am-not.html",
+				"tags": ["Movies"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/08/07/i-watched-the.html",
+				
+				"content_html": "<p>I watched The Gray Man today &ndash; mindless action is not entertainment to me. I had fun when it was in superhero films. It doesn&rsquo;t here.</p>\n",
+				"content_text": "I watched The Gray Man today -- mindless action is not entertainment to me. I had fun when it was in superhero films. It doesn't here.\n",
+				"date_published": "2022-08-07T22:16:16+05:30",
+				"url": "https://www.amitgawande.com/2022/08/07/i-watched-the.html"
+			},
+			{
 				"id": "http://tales.micro.blog/2022/08/05/i-find-it.html",
 				
 				"content_html": "<p>I find it surprising that iTunes remain the only good store to buy digital music even today. There has to be some reason that all the big players have exited the space and have gone the streaming route. Is it the competition? Or the overall logistics of selling digital music?</p>\n",
