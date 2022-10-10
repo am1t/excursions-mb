@@ -7,6 +7,67 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2022/10/10/i-dont-want.html",
+				
+				"content_html": "<p>I don&rsquo;t want to speak to even customer care now. If there&rsquo;s an option for chat, I will always prefer that than get on an phone call and stay waiting. A waste of time and resources. Happy that more and more service providers keep chat as an option. Phone call is a last resort.</p>\n",
+				"content_text": "I don't want to speak to even customer care now. If there's an option for chat, I will always prefer that than get on an phone call and stay waiting. A waste of time and resources. Happy that more and more service providers keep chat as an option. Phone call is a last resort.\n",
+				"date_published": "2022-10-10T12:02:08+05:30",
+				"url": "https://www.amitgawande.com/2022/10/10/i-dont-want.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/10/06/im-done-with.html",
+				
+				"content_html": "<p>I&rsquo;m done with my Arc browser experiment. I don&rsquo;t use any of the unique features. Plus I miss the ability to use the bookmaklets (I had no idea I would need them this regularly). By being back to the regular browsers, I would know if and how much I miss the Arc&rsquo;s newness.</p>\n",
+				"content_text": "I'm done with my Arc browser experiment. I don't use any of the unique features. Plus I miss the ability to use the bookmaklets (I had no idea I would need them this regularly). By being back to the regular browsers, I would know if and how much I miss the Arc's newness. \n",
+				"date_published": "2022-10-06T07:17:36+05:30",
+				"url": "https://www.amitgawande.com/2022/10/06/im-done-with.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/10/05/do-you-start.html",
+				
+				"content_html": "<blockquote>\n<p>Do you start your mornings with a potent dose of caffeine from a freshly brewed cup of Joe? Or do you prefer a slightly less caffeinated nudge from a warm and gentle cup of tea?</p>\n</blockquote>\n<p>Tea, any day for me.</p>\n<p>Source: <a href=\"https://www.washingtonpost.com/wellness/interactive/2022/coffee-vs-tea-nutrition-health/\">Coffee vs. tea: Which is better for your health?</a> →</p>\n",
+				"content_text": "> Do you start your mornings with a potent dose of caffeine from a freshly brewed cup of Joe? Or do you prefer a slightly less caffeinated nudge from a warm and gentle cup of tea?\n\nTea, any day for me.\n\nSource: [Coffee vs. tea: Which is better for your health?](https://www.washingtonpost.com/wellness/interactive/2022/coffee-vs-tea-nutrition-health/) →\n",
+				"date_published": "2022-10-05T21:34:37+05:30",
+				"url": "https://www.amitgawande.com/2022/10/05/do-you-start.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/10/05/i-am-reading.html",
+				
+				"content_html": "<p>I am reading <a href=\"https://micro.blog/books/9781538719879\">The 6:20 Man</a> by David Baldacci. It&rsquo;s a standard action, suspense thriller. But it is built up really well. Interested to find out what comes next.  📚</p>\n",
+				"content_text": "I am reading [The 6:20 Man](https://micro.blog/books/9781538719879) by David Baldacci. It's a standard action, suspense thriller. But it is built up really well. Interested to find out what comes next.  📚\n",
+				"date_published": "2022-10-05T21:23:22+05:30",
+				"url": "https://www.amitgawande.com/2022/10/05/i-am-reading.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/10/05/i-always-admire.html",
+				
+				"content_html": "<p>I always admire people who go to lengths to find unique ways to help them write and publish. This post on including <a href=\"https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html\">hyperlinks In handwritten posts</a> is a classic example. I can&rsquo;t take this much effort to publish, but I can see how this must be fun! Love it.</p>\n",
+				"content_text": "I always admire people who go to lengths to find unique ways to help them write and publish. This post on including [hyperlinks In handwritten posts](https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html) is a classic example. I can't take this much effort to publish, but I can see how this must be fun! Love it.\n",
+				"date_published": "2022-10-05T20:42:38+05:30",
+				"url": "https://www.amitgawande.com/2022/10/05/i-always-admire.html",
+				"tags": ["Meta"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/10/04/i-wish-people.html",
+				
+				"content_html": "<p>I wish people didn&rsquo;t include the feeds for their status updates (basically one word updates) into Micro.blog. Not many are doing it and yet the timeline is already too noisy with such posts.</p>\n",
+				"content_text": "I wish people didn't include the feeds for their status updates (basically one word updates) into Micro.blog. Not many are doing it and yet the timeline is already too noisy with such posts. \n",
+				"date_published": "2022-10-04T14:44:38+05:30",
+				"url": "https://www.amitgawande.com/2022/10/04/i-wish-people.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2022/10/03/sigh-monday-has.html",
+				
+				"content_html": "<p>Sigh! Monday has already screwed up all my plans for the day.</p>\n",
+				"content_text": "Sigh! Monday has already screwed up all my plans for the day.\n",
+				"date_published": "2022-10-03T13:00:05+05:30",
+				"url": "https://www.amitgawande.com/2022/10/03/sigh-monday-has.html"
+			},
+			{
 				"id": "http://tales.micro.blog/2022/10/01/our-species-collective.html",
 				
 				"content_html": "<p>Our species' collective common sense is on a downward trend; my movie theatre experience yesterday proved this again. With mobile phones in their hands, they kill the vibe with the ringtones and flashes. A few pick up the calls in the middle of the movie. Some peek at their phones out of habit just to check the notifications. So what&rsquo;s fricking wrong with these folks? Can you not stay away from the dopamine-inducing notifications even for a couple of hours?</p>\n<p>There is also a crazy trend on the rise recently. People are creating reels of theatre response — a highly anticipated scene begins, the entry of an important character or a dialogue or a fight sequence, and people have their smartphones out recording the screen. What the fuck, man!</p>\n<p>I am ready to pay extra for watching a movie at a theatre with a &ldquo;no smartphone allowed&rdquo; policy. I know it&rsquo;s near impossible, but a guy can dream, can&rsquo;t he?</p>\n<p>A sidetone, the movie I watched was <a href=\"https://en.wikipedia.org/wiki/Vikram_Vedha_(2022_film)\">Vikram Vedha</a>, and I absolutely loved it. I don&rsquo;t care that it&rsquo;s a remake. It is <em>remade</em> well, in the right spirit, and backed by solid performances.</p>\n",
