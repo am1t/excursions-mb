@@ -7,6 +7,68 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2022/10/15/i-watched-the.html",
+				
+				"content_html": "<p>I <a href=\"https://amit.status.lol/634a655f0d5b9\">watched The Adam Project</a> today. It&rsquo;s such lazy movie - it had all the ingredients to be a brilliant movie. It&rsquo;s good fun in parts, has some nice moments. But makers were lazy to not be interested in making it any better, enough was enough.</p>\n",
+				"content_text": "I [watched The Adam Project](https://amit.status.lol/634a655f0d5b9) today. It's such lazy movie - it had all the ingredients to be a brilliant movie. It's good fun in parts, has some nice moments. But makers were lazy to not be interested in making it any better, enough was enough.\n",
+				"date_published": "2022-10-15T18:30:22+05:30",
+				"url": "https://www.amitgawande.com/2022/10/15/i-watched-the.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2022/10/15/after-returning-to.html",
+				
+				"content_html": "<p>After returning <a href=\"https://www.amitgawande.com/2022/10/06/im-done-with.html\">to Safari from Arc</a>, I realized how pathetic the experience with this default browser is. It looks dated, is slow, and has terrible interface choices (tabs bar, bookmarks, home page and on &amp; on). I tried Chrome, too, and it is ridden with bugs. So I&rsquo;m back to Arc.</p>\n",
+				"content_text": "After returning [to Safari from Arc](https://www.amitgawande.com/2022/10/06/im-done-with.html), I realized how pathetic the experience with this default browser is. It looks dated, is slow, and has terrible interface choices (tabs bar, bookmarks, home page and on & on). I tried Chrome, too, and it is ridden with bugs. So I'm back to Arc.\n",
+				"date_published": "2022-10-15T06:49:35+05:30",
+				"url": "https://www.amitgawande.com/2022/10/15/after-returning-to.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/10/14/a-day-in.html",
+				
+				"content_html": "<p><a href=\"https://micro.welltempered.net/2022/10/11/a-day-in.html\">A Day in the Life</a> in Pune, India. A stairway to the blue skies on the other side.</p>\n<p>Every afternoon for the past few days, the clouds crowd the skies as I wait to pickup my daughter from the school. They didn&rsquo;t disappoint even today.</p>\n<p>14 October 2022, 3:30 PM</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[A Day in the Life](https://micro.welltempered.net/2022/10/11/a-day-in.html) in Pune, India. A stairway to the blue skies on the other side. \n\nEvery afternoon for the past few days, the clouds crowd the skies as I wait to pickup my daughter from the school. They didn't disappoint even today.\n\n14 October 2022, 3:30 PM\n\n<img src=\"uploads/2022/fcc90205df.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-10-14T16:00:33+05:30",
+				"url": "https://www.amitgawande.com/2022/10/14/a-day-in.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/10/14/i-love-technology.html",
+				"title": "I Love Technology",
+				"content_html": "<p>Whenever I pick up a call on my watch and talk to my wife, I am happy.</p>\n<p>Whenever I scan or tap my phone to pay for stuff, I am happy.</p>\n<p>Whenever I click a button on my smartphone to capture the best of the moment in front of me, I am happy.</p>\n<p>Whenever I beam my voice to my daughter in another room as if I am next to her, I am happy.</p>\n<p>Whenever my lights and plugs switch off on schedule or on my command, I am happy.</p>\n<p>Whenever I push a photo or video from my phone onto a larger screen for my family to enjoy, I am happy.</p>\n<p>Whenever I watch my dad live as he excitingly shows me a new shirt or a new faucet, I am happy.</p>\n<p>I am happy when my phone guides me around a place, known or unknown. Alerts me of road closures or diversions. Reads the text in front of me. Or helps me with my quick queries or requests.</p>\n<p>The list goes on.</p>\n<p>And I am only talking about the capabilities of the devices on me. I am surrounded by technology that brings a smile to my face every day throughout the day.</p>\n<p>I can be frustrated by the things these gadgets cannot do well (or can&rsquo;t do at all). Or I can be angry with them when they alter my habits against my will.</p>\n<p>But just as the technology is at fault for not acting responsibly, so am I for not using it sensibly. When <em>I wish</em> the technology to alter itself to not burden me, <em>I share</em> the responsibility to find ways to not be controlled by it.</p>\n<p>Do I have enough levers? That&rsquo;s debatable. What isn&rsquo;t, though, is my love for technology.</p>\n",
+				"content_text": "Whenever I pick up a call on my watch and talk to my wife, I am happy.\r\n\r\nWhenever I scan or tap my phone to pay for stuff, I am happy.\r\n\r\nWhenever I click a button on my smartphone to capture the best of the moment in front of me, I am happy.\r\n\r\nWhenever I beam my voice to my daughter in another room as if I am next to her, I am happy.\r\n\r\nWhenever my lights and plugs switch off on schedule or on my command, I am happy. \r\n\r\nWhenever I push a photo or video from my phone onto a larger screen for my family to enjoy, I am happy.\r\n\r\nWhenever I watch my dad live as he excitingly shows me a new shirt or a new faucet, I am happy.\r\n\r\nI am happy when my phone guides me around a place, known or unknown. Alerts me of road closures or diversions. Reads the text in front of me. Or helps me with my quick queries or requests. \r\n\r\nThe list goes on.\r\n\r\nAnd I am only talking about the capabilities of the devices on me. I am surrounded by technology that brings a smile to my face every day throughout the day.\r\n\r\nI can be frustrated by the things these gadgets cannot do well (or can't do at all). Or I can be angry with them when they alter my habits against my will.\r\n\r\nBut just as the technology is at fault for not acting responsibly, so am I for not using it sensibly. When *I wish* the technology to alter itself to not burden me, *I share* the responsibility to find ways to not be controlled by it.\r\n\r\nDo I have enough levers? That's debatable. What isn't, though, is my love for technology.\n",
+				"date_published": "2022-10-14T06:36:01+05:30",
+				"url": "https://www.amitgawande.com/2022/10/14/i-love-technology.html",
+				"tags": ["Essays"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/10/13/i-love-this.html",
+				
+				"content_html": "<p>I love this view everytime I visit <a href=\"https://www.tripadvisor.in/Tourism-g297653-Panchgani_Satara_District_Ma\">the place</a>. Looks so far out, but I usually just driven past them. Can never get enough.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I love this view everytime I visit [the place](https://www.tripadvisor.in/Tourism-g297653-Panchgani_Satara_District_Ma). Looks so far out, but I usually just driven past them. Can never get enough.\n\n<img src=\"uploads/2022/6cdd9185fc.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-10-13T15:53:35+05:30",
+				"url": "https://www.amitgawande.com/2022/10/13/i-love-this.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/10/12/this-is-one.html",
+				
+				"content_html": "<blockquote>\n<p>This is one of the major obstacles to practicing mindfulness with any regularity: you need to be interested in experience in order to observe it, but how do you sustain an interest in the mundane stuff of life, when it’s mundane by definition?</p>\n</blockquote>\n<p><a href=\"https://www.raptitude.com/2022/10/mindfulness-means-letting-things-surprise-you/\">Mindfulness Means Letting Things Surprise You</a> →</p>\n",
+				"content_text": "> This is one of the major obstacles to practicing mindfulness with any regularity: you need to be interested in experience in order to observe it, but how do you sustain an interest in the mundane stuff of life, when it’s mundane by definition?\n\n[Mindfulness Means Letting Things Surprise You](https://www.raptitude.com/2022/10/mindfulness-means-letting-things-surprise-you/) →\n",
+				"date_published": "2022-10-12T22:12:31+05:30",
+				"url": "https://www.amitgawande.com/2022/10/12/this-is-one.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://tales.micro.blog/2022/10/10/if-you-write.html",
+				
+				"content_html": "<p>If you write a blog and are interested in conversing with your readers, do include a link for the reader to do so right below your every post. I would love it if every blog post had a way for me to respond. A comment form. An email address for me to mail the writer at. Or even a link to the social media where the post is syndicated. Basically, redirect me, the reader, to any place where the conservation is taking place. I can, of course, theorise why most people have stopped doing that.</p>\n<p>First, the spam industry has dampened one of the promises of the internet — having open connections with people on the web. We are afraid now that we will be bombarded by comments and messages that we have no interest in sifting through. Second, most blogging platforms have stopped providing an easy way to enable conversations, which came built-in with WordPress and others. It’s an added decision (and even a cost in some cases) for the writer to provide such an option to its reader. A trouble that many folks just don’t want to sign up for.</p>\n<p>I wish that wasn’t the case. My conversations with people around the words I write have been an essential aspect of my blogging for the past many years. If you haven’t tried that, or you did but aren’t doing it actively anymore, give it a chance again.</p>\n<p>You take the trouble so that your user doesn’t have to.</p>\n",
+				"content_text": "If you write a blog and are interested in conversing with your readers, do include a link for the reader to do so right below your every post. I would love it if every blog post had a way for me to respond. A comment form. An email address for me to mail the writer at. Or even a link to the social media where the post is syndicated. Basically, redirect me, the reader, to any place where the conservation is taking place. I can, of course, theorise why most people have stopped doing that.\n\nFirst, the spam industry has dampened one of the promises of the internet — having open connections with people on the web. We are afraid now that we will be bombarded by comments and messages that we have no interest in sifting through. Second, most blogging platforms have stopped providing an easy way to enable conversations, which came built-in with WordPress and others. It’s an added decision (and even a cost in some cases) for the writer to provide such an option to its reader. A trouble that many folks just don’t want to sign up for. \n\nI wish that wasn’t the case. My conversations with people around the words I write have been an essential aspect of my blogging for the past many years. If you haven’t tried that, or you did but aren’t doing it actively anymore, give it a chance again.\n\nYou take the trouble so that your user doesn’t have to.\n",
+				"date_published": "2022-10-10T19:15:54+05:30",
+				"url": "https://www.amitgawande.com/2022/10/10/if-you-write.html",
+				"tags": ["Meta"]
+			},
+			{
 				"id": "http://tales.micro.blog/2022/10/10/i-dont-want.html",
 				
 				"content_html": "<p>I don&rsquo;t want to speak to even customer care now. If there&rsquo;s an option for chat, I will always prefer that than get on an phone call and stay waiting. A waste of time and resources. Happy that more and more service providers keep chat as an option. Phone call is a last resort.</p>\n",
