@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2023/07/26/i-am-really.html",
+				
+				"content_html": "<p>I am really enjoying my experience using Bard- I have long stopped using search engines as the first stop. Only after I have asked Bard, my query do I return to a regular search engine. And even such instances are getting rarer.</p>\n<p>For example, I was today wondering what movie a particular scene was from. Bard <a href=\"https://g.co/bard/share/07b568f5e69e\">got the answer</a> bang on. A search engine never got this right for me.</p>\n<!-- raw HTML omitted -->\n<p>Unfortunately, ChatGPT has long fallen behind in the race. This is what it came back with. As much as I would have liked otherwise, Google is quickly gaining back the lost ground.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I am really enjoying my experience using Bard- I have long stopped using search engines as the first stop. Only after I have asked Bard, my query do I return to a regular search engine. And even such instances are getting rarer. \n\nFor example, I was today wondering what movie a particular scene was from. Bard [got the answer](https://g.co/bard/share/07b568f5e69e) bang on. A search engine never got this right for me.\n\n<img src=\"uploads/2023/screenshot-2023-07-26-at-9.45.36-am.png\" width=\"600\" height=\"241\" alt=\"\">\n\nUnfortunately, ChatGPT has long fallen behind in the race. This is what it came back with. As much as I would have liked otherwise, Google is quickly gaining back the lost ground. \n\n<img src=\"uploads/2023/screenshot-2023-07-26-at-9.48.17-am.png\" width=\"600\" height=\"262\" alt=\"\">\n",
+				"date_published": "2023-07-26T09:53:53+05:30",
+				"url": "https://www.amitgawande.com/2023/07/26/i-am-really.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://tales.micro.blog/2023/07/16/my-daughter-loves.html",
 				
 				"content_html": "<p>My daughter loves her music and is always crooning songs. Humming tunes. On a fine day recently, she surprised me and her mom with a tune of hers. One she had composed. She sang it so brilliantly, with a few lyrics and all 🥹 So, that’s what we recorded today - <a href=\"https://youtu.be/QTc9La20uL8\">a new video is out</a>.</p>\n<!-- raw HTML omitted -->\n",
