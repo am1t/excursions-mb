@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2023/09/11/burger-eat-it.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Burger - eat it cold or microwave it?</p>\n",
+				"date_published": "2023-09-11T18:59:28+05:30",
+				"url": "https://www.amitgawande.com/2023/09/11/burger-eat-it.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2023/09/08/after-days-of.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>After days of hot weather, it is raining again. I love rain. But this year, this incessant dampness is tiring now.</p>\n",
+				"date_published": "2023-09-08T06:38:24+05:30",
+				"url": "https://www.amitgawande.com/2023/09/08/after-days-of.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2023/09/07/panorama-mbsept.html",
+				
+				"content_html": "<p>Panorama #mbsept</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Panorama #mbsept\n\n<img src=\"uploads/2023/ac87c909e4.jpg\" width=\"600\" height=\"199\" alt=\"\">\n",
+				"date_published": "2023-09-07T17:48:35+05:30",
+				"url": "https://www.amitgawande.com/2023/09/07/panorama-mbsept.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://tales.micro.blog/2023/09/06/well-mbsept.html",
 				
 				"content_html": "<p>Well #mbsept</p>\n<!-- raw HTML omitted -->\n",
@@ -61,7 +86,7 @@
 				"id": "http://tales.micro.blog/2023/09/04/orange-mbsept.html",
 				
 				"content_html": "<p>Orange #mbsept</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Orange #mbsept\n\n<img src=\"uploads/2023/561bce07bc.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Orange #mbsept\n\n<img src=\"https://cdn.uploads.micro.blog/7936/2023/561bce07bc.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-04T21:55:58+05:30",
 				"url": "https://www.amitgawande.com/2023/09/04/orange-mbsept.html",
 				"tags": ["Photos"]
