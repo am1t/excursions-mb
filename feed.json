@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2023/11/01/i-am-frustrated.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I am frustrated with Feedbin&#39;s support. There&#39;s some problem with their billing which I have been behind them to fix for the past few months. Even after multiple emails, I have never received a response.</p><p>As much as I love the service, I need to move on and find an alternative now.</p>\n",
+				"date_published": "2023-11-01T07:16:16+05:30",
+				"url": "https://www.amitgawande.com/2023/11/01/i-am-frustrated.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2023/10/18/why-is-usbc.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Why is USB-C pencil a top news? Just Apple?</p>\n",
+				"date_published": "2023-10-18T07:07:39+05:30",
+				"url": "https://www.amitgawande.com/2023/10/18/why-is-usbc.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2023/10/17/i-see-more.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I see more and more people set up comments on their blogs recently. If it is linked to Twitter&#39;s implosion, was Twitter an alternate comment system then? But we also have reports (for example, NPR) that Twitter didn&#39;t impact traffic to the sites much. So then, what is it? Or is it just a trend? I am afraid it&#39;s the latter. </p><p>I don&#39;t have comments on my blog, and I, for now, intend to keep it that way. Email remains the preferred form of conversation for me.</p>\n",
+				"date_published": "2023-10-17T08:39:38+05:30",
+				"url": "https://www.amitgawande.com/2023/10/17/i-see-more.html"
+			},
+			{
 				"id": "http://tales.micro.blog/2023/10/13/blogging-is-a.html",
 				
 				"content_html": "<blockquote>\n<p>Blogging is a lifeline, a connection to people and a world that might not be possible offline because of the reticence to interact and the fear doing so generates. I can&rsquo;t think of a better reason to do it.</p>\n</blockquote>\n<p>Source: <a href=\"https://colinwalker.blog/?date=2023-10-12#p1\">Colin Walker on Blogging</a> →</p>\n",
