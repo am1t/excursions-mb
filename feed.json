@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2023/12/21/i-read-this.html",
+				
+				"content_html": "<p>I read this in the Firefox&rsquo;s latest release notes&hellip;</p>\n<blockquote>\n<p>The :has() selector is now supported. This allows authors to match an element that has, or &ldquo;anchors&rdquo;, at least one element matching its relative selector.</p>\n</blockquote>\n<p>&hellip; and first thought I had was isn&rsquo;t it curious Mozilla calls people who will use this feature &ldquo;authors&rdquo; and not &ldquo;developers&rdquo;?</p>\n",
+				"content_text": "I read this in the Firefox's latest release notes...\n\n> The :has() selector is now supported. This allows authors to match an element that has, or \"anchors\", at least one element matching its relative selector.\n\n... and first thought I had was isn't it curious Mozilla calls people who will use this feature \"authors\" and not \"developers\"?\n",
+				"date_published": "2023-12-21T07:38:20+05:30",
+				"url": "https://www.amitgawande.com/2023/12/21/i-read-this.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2023/12/19/one-app-for.html",
+				
+				"content_html": "<p>One app for feeds and newsletters is a promise that&rsquo;s hardly fulfilled, especially when newsletters these days are HTML-heavy &ndash; almost webpages. No feedreader renders the majority of them. It can work only when a separate view is built just for newsletters and I don&rsquo;t know of any that does this well. I have tried Feedbin, Reader and a few others. They all suck.</p>\n",
+				"content_text": "One app for feeds and newsletters is a promise that's hardly fulfilled, especially when newsletters these days are HTML-heavy -- almost webpages. No feedreader renders the majority of them. It can work only when a separate view is built just for newsletters and I don't know of any that does this well. I have tried Feedbin, Reader and a few others. They all suck.\n",
+				"date_published": "2023-12-19T07:43:57+05:30",
+				"url": "https://www.amitgawande.com/2023/12/19/one-app-for.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2023/12/17/after-a-week.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>After a week of informing, I have shut down Scribe today. Bittersweet.</p>\n",
+				"date_published": "2023-12-17T13:24:10+05:30",
+				"url": "https://www.amitgawande.com/2023/12/17/after-a-week.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2023/12/17/every-time-i.html",
+				
+				"content_html": "<p>Every time I see a blogging platform make title a mandatory field, I cringe. I know why the new blogging platforms generally do that — it simplifies the UI and backend design. But that tells me they will support the titleless posts only as an afterthought, which I don’t like. </p>\n<p>Start with titleless posts as the base, making them first-class citizens. Stitch the design around that. And then add support for titles. People latched on to the microblogging phenomenon of Twitter and Facebook because they made posting interfaces frictionless. A simple textbox floated at the top of the timeline for quick thoughts to be posted.</p>\n<p>That’s what every blogging platform needs if we are to attract more people to blogging. Everything other than the content of the post is meaningless.</p>\n",
+				"content_text": "Every time I see a blogging platform make title a mandatory field, I cringe. I know why the new blogging platforms generally do that — it simplifies the UI and backend design. But that tells me they will support the titleless posts only as an afterthought, which I don’t like. \n\nStart with titleless posts as the base, making them first-class citizens. Stitch the design around that. And then add support for titles. People latched on to the microblogging phenomenon of Twitter and Facebook because they made posting interfaces frictionless. A simple textbox floated at the top of the timeline for quick thoughts to be posted.\n\nThat’s what every blogging platform needs if we are to attract more people to blogging. Everything other than the content of the post is meaningless.\n",
+				"date_published": "2023-12-17T10:23:42+05:30",
+				"url": "https://www.amitgawande.com/2023/12/17/every-time-i.html"
+			},
+			{
+				"id": "http://tales.micro.blog/2023/12/17/i-take-my.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I take my blogging too seriously, to the detriment of my writing.</p>\n",
+				"date_published": "2023-12-17T09:25:36+05:30",
+				"url": "https://www.amitgawande.com/2023/12/17/i-take-my.html"
+			},
+			{
 				"id": "http://tales.micro.blog/2023/12/13/after-deliberating-over.html",
 				
 				"content_html": "<p>After deliberating over whether to offer membership for my online creations, I decided to set up a <a href=\"https://www.buymeacoffee.com/amitgawande\">single One a Month tier</a>. The decision to set up a membership of any form was triggered by the recent realisation that led me to pull down Scribe- the realisation that my side projects cost me dear. Every month, the prices add up, and I eventually run out of motivation to keep going.</p>\n<p>However, the step to keep it simple and affordable for people considering support is inspired by a <a href=\"https://manuelmoreale.com/@/page/FzQB8gwtyZXZ2yq3\">recent post by Manu</a> where he proposed changing the defaults on pricing the support.</p>\n<blockquote>\n<p>The 1$ part means you can set it up and forget about it because it&rsquo;s a low enough amount that won&rsquo;t make too much of a difference for the majority of people who are considering supporting online creators.</p>\n</blockquote>\n<p>For a period now, I have had a Buy Me a Coffee page so that others can support my hobby projects. Many have, and I could not be more grateful. I have now rolled out a simple membership to cover the projects that <strong>need hosting and, hence, carry a monthly bill</strong>. The likes of Scribe. And Micro.threads.</p>\n<p>With one membership, there are no complicated tiers. And no special rewards, either. Frankly, I could limit the number of members to ten as that&rsquo;s all I need to support my ongoing side projects. But I am keeping things simple for now.</p>\n<p>However, in today&rsquo;s tumultuous world, one full of uncertainty, to expect anything in return <em>for my hobby projects</em> would be unfair on my part. No obligation, hence, on anyone whatsoever.</p>\n",
