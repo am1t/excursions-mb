@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2024/03/12/there-are-two.html",
+				
+				"content_html": "<p>There are two writers within me. One wants me to write as freely and as frequently as possible, blurting out everything that comes to my mind. The other wants me to weigh each word, think deeply, and post only when I have something meaningful to say. Every time they fight, which they do often, my writing stops. I am going through one such phase.</p>\n",
+				"content_text": "There are two writers within me. One wants me to write as freely and as frequently as possible, blurting out everything that comes to my mind. The other wants me to weigh each word, think deeply, and post only when I have something meaningful to say. Every time they fight, which they do often, my writing stops. I am going through one such phase.\n",
+				"date_published": "2024-03-12T07:49:14+05:30",
+				"url": "https://www.amitgawande.com/2024/03/12/there-are-two.html",
+				"tags": ["Meta"]
+			},
+			{
 				"id": "http://tales.micro.blog/2024/02/26/i-have-enjoyed.html",
 				
 				"content_html": "<p>I have enjoyed writing at Scribbles recently &ndash; you can follow these posts <a href=\"https://amitg.blog/feed.atom\">through the RSS feed</a>. The simplicity of the posting workflow has me hooked. The biggest draw for me is that I can easily begin a draft and expand it with more thoughts across multiple sittings. It&rsquo;s a lot more frictionless than what I have found anywhere recently. The interface suits the kind of posts I am inclined to write these days - <a href=\"https://amitg.blog/\">blogging</a> regularly about life and writing.</p>\n<p>I am sure the platform won&rsquo;t work for all. There&rsquo;s no support for theming. No automatic cross-posting. No markdown. Micro posts don&rsquo;t sit well on the platform, either. For all that, there&rsquo;s <a href=\"https://www.amitgawande.com/2024/01/13/my-experiments-with.html\">no better platform than Micro.blog</a>. Scribbles, on the other hand, strips the blogging to the bare. To what matters: writing blog posts. And for that, the platform does enough.</p>\n<p>So, keep an eye on <a href=\"https://scribbles.page/\">Scribbles</a>. It <a href=\"https://scribbles.page/updates/posts/an-update-launch-date-plans-and-setting-it-straight-l8csnr4t\">will launch soon</a> to be available for sign-ups.</p>\n",
