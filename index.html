@@ -25,6 +25,21 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://www.amitgawande.com/2024/05/25/today-i-pushed.html" class="u-url"><time class="dt-published" datetime="2024-05-25 18:45:27 &#43;0530">May 25, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Today, I pushed a minor release for <a href="https://micro.blog/account/plugins/view/22">Posts Stats plugin</a> that enables (and defaults to) collapsing the table for the posts by year. You can expand the table by clicking the &ldquo;Show Posts by Year&rdquo; button below the chart. It should make the page slightly shorter and easier to follow.</p>
+<p><strong>PS:</strong> If the button to expand the table does not work by default, your theme might not import JavaScript from plugins correctly. Ideally, you should have the following code block around the footer layout. If you are unable to figure it out, email me. I will try to help you debug.</p>
+<pre tabindex="0"><code>{{ range .Site.Params.plugins_js }}
+      &lt;script src=&quot;{{ . }}&quot;&gt;&lt;/script&gt;
+{{ end }}
+</code></pre>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://www.amitgawande.com/2024/03/12/there-are-two.html" class="u-url"><time class="dt-published" datetime="2024-03-12 07:49:14 &#43;0530">Mar 12, 2024</time></a>
 
 		<div class="e-content">
