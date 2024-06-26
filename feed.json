@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2024/06/26/my-daughter-loves.html",
+				
+				"content_html": "<p>My daughter loves her music. Listening to it. <a href=\"https://www.amitgawande.com/2023/07/16/my-daughter-loves.html\">Making it</a>. Learning it. She enjoys her music classes and recently started self-learning Ukelele through YouTube. It didn&rsquo;t take her long to get the chords right for one of her favourite songs. As she performed, I recorded it and up it went on her channel. A <a href=\"https://www.youtube.com/watch?v=06xgxgGrQMo\">new video is out now</a>.</p>\n<p>She&rsquo;s also super excited that she is a click away from reaching 100 subscribers. I calm her down. But the excitement of any milestone is challenging to push away.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My daughter loves her music. Listening to it. [Making it](https://www.amitgawande.com/2023/07/16/my-daughter-loves.html). Learning it. She enjoys her music classes and recently started self-learning Ukelele through YouTube. It didn't take her long to get the chords right for one of her favourite songs. As she performed, I recorded it and up it went on her channel. A [new video is out now](https://www.youtube.com/watch?v=06xgxgGrQMo).\r\n\r\nShe's also super excited that she is a click away from reaching 100 subscribers. I calm her down. But the excitement of any milestone is challenging to push away.\r\n\r\n<img src=\"uploads/2024/20240623-120229.jpg\" width=\"800\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-06-26T21:34:11+05:30",
+				"url": "https://www.amitgawande.com/2024/06/26/my-daughter-loves.html",
+				"tags": ["Links","Photos"]
+			},
+			{
+				"id": "http://tales.micro.blog/2024/06/08/i-finished-reading.html",
+				
+				"content_html": "<p>I finished reading <a href=\"https://micro.blog/books/9780063279094\">Everyone on This Train Is a Suspect</a> by Benjamin Stevenson recently 📚</p>\n<p>I enjoyed the first Ernest Cunningham novel with its uniquely fresh narration style. Though the second in the series has a similar tone, it felt repetitively bland this time. The story takes ages to kick off. Humour barely lands and feels there only to fill the pages. The same goes for the &ldquo;cute&rdquo; and frequent talk with readers—it just didn&rsquo;t land for me. It irritated me every time.</p>\n<p>I listened to this book this time, and the narration was terrible. It was so fast and messy that I couldn&rsquo;t understand which character was speaking. I couldn&rsquo;t get involved thoroughly; I was waiting for the book to end.</p>\n",
+				"content_text": "I finished reading [Everyone on This Train Is a Suspect](https://micro.blog/books/9780063279094) by Benjamin Stevenson recently 📚\r\n\r\nI enjoyed the first Ernest Cunningham novel with its uniquely fresh narration style. Though the second in the series has a similar tone, it felt repetitively bland this time. The story takes ages to kick off. Humour barely lands and feels there only to fill the pages. The same goes for the \"cute\" and frequent talk with readers—it just didn't land for me. It irritated me every time. \r\n\r\nI listened to this book this time, and the narration was terrible. It was so fast and messy that I couldn't understand which character was speaking. I couldn't get involved thoroughly; I was waiting for the book to end.\n",
+				"date_published": "2024-06-08T12:02:41+05:30",
+				"url": "https://www.amitgawande.com/2024/06/08/i-finished-reading.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://tales.micro.blog/2024/05/25/today-i-pushed.html",
 				
 				"content_html": "<p>Today, I pushed a minor release for <a href=\"https://micro.blog/account/plugins/view/22\">Posts Stats plugin</a> that enables (and defaults to) collapsing the table for the posts by year. You can expand the table by clicking the &ldquo;Show Posts by Year&rdquo; button below the chart. It should make the page slightly shorter and easier to follow.</p>\n<p><strong>PS:</strong> If the button to expand the table does not work by default, your theme might not import JavaScript from plugins correctly. Ideally, you should have the following code block around the footer layout. If you are unable to figure it out, email me. I will try to help you debug.</p>\n<pre tabindex=\"0\"><code>{{ range .Site.Params.plugins_js }}\r\n      &lt;script src=&quot;{{ . }}&quot;&gt;&lt;/script&gt;\r\n{{ end }}\r\n</code></pre>",
