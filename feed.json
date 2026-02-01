@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://tales.micro.blog/2026/02/01/a-pleasant-drive-to-the/",
+				
+				"content_html": "<p>A pleasant drive to the outsirkts. And I see the life that matters. Pune is blessed that way!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A pleasant drive to the outsirkts. And I see the life that matters. Pune is blessed that way!\n\n<img src=\"uploads/2026/982fafb9f2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-02-01T11:09:58+05:30",
+				"url": "https://amitg.blog/2026/02/01/a-pleasant-drive-to-the/",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://tales.micro.blog/2026/01/29/spent-an-hour-today-writing/",
 				
 				"content_html": "<p>Spent an hour today writing a post that eventually felt inauthentic. I only realised after writing it that I had no opinion on the topic. Why did I think I needed to have one?</p>\n<p>It happens a lot when I read meta posts on writing. I tend to get swayed and believe that I ought to contribute. I don’t.</p>\n",
@@ -35,7 +44,7 @@
 				"id": "http://tales.micro.blog/2025/12/11/while-stuck-at-a-traffic/",
 				
 				"content_html": "<p>While stuck at a traffic signal, I captured the mode of travel I’d prefer.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "While stuck at a traffic signal, I captured the mode of travel I’d prefer. \n\n<img src=\"uploads/2025/cbec2f90da.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "While stuck at a traffic signal, I captured the mode of travel I’d prefer. \n\n<img src=\"https://cdn.uploads.micro.blog/7936/2025/cbec2f90da.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-12-11T22:13:11+05:30",
 				"url": "https://amitg.blog/2025/12/11/while-stuck-at-a-traffic/",
 				"tags": ["Photos"]
